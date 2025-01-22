@@ -30,6 +30,7 @@ big-boss-tracker.net
 bithq.org
 bittorrent-tracker.e-n-c-r-y-p-t.net
 blackz.ro
+blocklist.site
 bluebird-hd.org
 bt-club.ws
 bt-tracker.gamexp.ru
@@ -78,6 +79,7 @@ fleira.no
 freerainbowtables.com
 funfile.org
 git.vulnix.sh
+github.com
 hdreactor.org
 highteahop.top
 home.yxgz.club
@@ -122,6 +124,7 @@ opentrackr.org
 p2p.0g.cx
 p2p.publictracker.xyz
 p4p.arenabg.com
+paypal.me
 peertube.cpy.re
 potuk.com
 pow7.com
@@ -314,6 +317,7 @@ u4.trakx.crim.ist
 u6.trakx.crim.ist
 uatracker.net
 udp.tracker.projectk.org
+unlicense.org
 wepzone.net
 ws.peer.ooo
 www.all4nothin.net
