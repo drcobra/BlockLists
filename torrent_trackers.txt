@@ -1848,6 +1848,7 @@ retracker.local
 retracker.netbynet.ru
 retracker.sevstar.net
 retracker.spark-rostov.ru
+retracker.x2k.ru
 retroflix.club
 reve.filserver.com
 revolution-world.com
