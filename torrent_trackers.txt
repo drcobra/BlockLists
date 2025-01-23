@@ -25,6 +25,7 @@ announce.partis.si
 api.ipv4online.uk
 atrack.pow7.com
 baibako.tv
+bandito.byterunner.io
 beertracker.ml
 big-boss-tracker.net
 bithq.org
@@ -74,6 +75,7 @@ ed2k.vip
 ehtracker.org
 elitezones.ro
 evan.im
+exodus.desync.com
 finbytes.org
 fleira.no
 freerainbowtables.com
@@ -136,6 +138,7 @@ retracker.lanta-net.ru
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker.x2k.ru
+rfc5746.mywaifu.best
 secure.pow7.com
 seeders-paradise.org
 servandroidkino.ru
@@ -176,13 +179,13 @@ torrents.hikarinokiseki.com
 torrents.linuxmint.com
 torrentsmd.com
 torrentzilla.org
-tr.abir.ga
 tr.bangumi.moe
 tr.burnabyhighstar.com
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 tr.nyacat.pw
 tr.zukizuki.org
+tr4ck3r.duckdns.org
 tracker-de.ololosh.space
 tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
@@ -299,7 +302,6 @@ tracker.yemekyedim.com
 tracker.yume-hatsuyuki.moe
 tracker1.520.jp
 tracker1.ctix.cn
-tracker1.myporn.club
 tracker2.ctix.cn
 tracker2.dler.com
 tracker2.dler.org
