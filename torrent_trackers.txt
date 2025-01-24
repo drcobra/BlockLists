@@ -2287,7 +2287,6 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
-torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2482,7 +2481,6 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2703,6 +2701,7 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
+tracker.wsaoa.eu.org
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
