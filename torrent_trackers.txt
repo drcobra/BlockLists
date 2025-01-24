@@ -1,6 +1,6 @@
 # https://github.com/drcobra/BlockLists
 #
-# Date: 2025-01-23T22:00:51.548Z
+# Date: 2025-01-24T08:05:31.941Z
 #
 # ======================================
 0.arenabg.com
@@ -13,7 +13,6 @@
 0second.com
 10mbit.com
 123bits.org
-127.0.0.1
 1337.abcvg.info
 1337x.ninjaproxy1.com
 1337x.org
@@ -31,12 +30,7 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-207.241.226.111
-207.241.231.226
 23jan.rudub.online
-2a03
-2a04
-2a0f
 2bbit.com
 2ddl.unblocked.llc
 2f4y.me
@@ -45,7 +39,6 @@
 420project.org
 45rpmtorrents.com
 4thd.xyz
-52.58.128.163
 52pt.site
 5mins.eu
 60-fps.org
@@ -322,7 +315,6 @@ bithouse.us
 bithq.org
 bithumen.be
 bithumen.ru
-bitmagnet
 bitmanija.net
 bitme.org
 bitmetv.org
@@ -1853,7 +1845,6 @@ retracker.local
 retracker.netbynet.ru
 retracker.sevstar.net
 retracker.spark-rostov.ru
-retracker.x2k.ru
 retroflix.club
 reve.filserver.com
 revolution-world.com
@@ -2498,7 +2489,6 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2509,7 +2499,6 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2689,7 +2678,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
