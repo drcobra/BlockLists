@@ -25,7 +25,7 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-23jan.rudub.online
+26jan.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 2f4y.me
@@ -1844,7 +1844,6 @@ revolution-world.com
 revolutiontt.me
 revolutiontt.net
 revquest-fansubs.com
-rfc5746.mywaifu.best
 rgfootball.net
 rickw512.no-ip.com
 rintor.org
@@ -2226,7 +2225,6 @@ tinboxtorrent.com
 tiraz.net
 titaniumtorrents.net
 titans-team.fr.cr
-tjupt.org
 tk.greedland.net
 tk1.trackerservers.com
 tlzdigital.com
@@ -2287,6 +2285,7 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
+torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2323,7 +2322,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg43.com
+torrentegg44.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2382,7 +2381,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq351.com
+torrentqq352.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2431,7 +2430,7 @@ torrentseed.org
 torrentseeds.org
 torrentsforall.net
 torrentsgalaxy.com
-torrentsir163.com
+torrentsir164.com
 torrentslab.com
 torrentsmd.com
 torrentsmexico.com
@@ -2481,6 +2480,7 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2503,6 +2503,7 @@ tracker.0day.community
 tracker.0x7c0.com
 tracker.36dm.com
 tracker.3arbya.com
+tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
 tracker.aletorrenty.pl
@@ -2574,7 +2575,6 @@ tracker.funfile.org
 tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gcvchp.com
-tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
 tracker.hama3.net
@@ -2653,7 +2653,6 @@ tracker.sextorrents.ru
 tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.sktorrent.net
-tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.skyts.net
 tracker.sladinki007.net
@@ -2694,7 +2693,6 @@ tracker.tryhackx.org
 tracker.unbxdapi.com
 tracker.uniotaku.com
 tracker.uw0.xyz
-tracker.valete.tf
 tracker.vanitycore.co
 tracker.vipmusic.org
 tracker.vrag.ru
@@ -3078,8 +3076,8 @@ www.funfile.org
 www.funkytorrents.com
 www.fuzer.xyz
 www.gamegamept.com
+www.gamestorrents.app
 www.gamestorrents.com
-www.gamestorrents.fm
 www.gay-torrents.net
 www.gaytor.rent
 www.genesis-sp.org
