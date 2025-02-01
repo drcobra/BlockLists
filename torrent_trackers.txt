@@ -2,6 +2,7 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
+02feb.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
@@ -25,7 +26,6 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-29jan.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 2f4y.me
@@ -680,7 +680,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1271,13 +1270,11 @@ learner.org
 learnflakes.net
 leaves.red
 leech.tenyardtorrents.com
-leech24.net
 leech2seed.info
 leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1503,7 +1500,6 @@ nemo.iptorrents.com
 nerealus.lt
 netbsd.org
 nethd.org
-new-line.net
 new-retro.eu
 newalbumreleases.unblocked.llc
 newapptorrent.com
@@ -1529,6 +1525,7 @@ nordic-t.org
 nordicbits.org
 nordicdvdr.org
 nordicpeers.org
+nordicq.org
 norgesbyte.net
 norgestorrenten.org
 noviteti.com
@@ -1606,7 +1603,6 @@ over-easy.net
 overget.org
 overtopropetorrents.com
 owen.torrid.ca
-oxtorrent.proxyninja.org
 ozone-porn.org
 ozone-torrents.com
 p2p.0g.cx
@@ -2322,7 +2318,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg44.com
+torrentegg45.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2381,7 +2377,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq352.com
+torrentqq353.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2492,7 +2488,6 @@ tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
 tr3.ysagin.top
-tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2592,7 +2587,6 @@ tracker.jiesen.life
 tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
-tracker.kmzs123.cn
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2637,7 +2631,6 @@ tracker.parrotsec.org
 tracker.pbits.org
 tracker.pirateparty.gr
 tracker.playmanija.net
-tracker.pmman.tech
 tracker.pomf.se
 tracker.pow7.com
 tracker.prq.to
@@ -2671,6 +2664,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2700,7 +2694,6 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
-tracker.wsaoa.eu.org
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2718,6 +2711,7 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2920,8 +2914,9 @@ ws.peer.ooo
 wukongwendao.top
 wunza.ws
 ww1.torrent9.fm
+www-oxtorrent.com
+www-torrent911.com
 www.2bbit.com
-www.36dm.org
 www.3dtorrents.org
 www.529053.xyz
 www.529055.xyz
@@ -3071,7 +3066,6 @@ www.freebfg.org
 www.freepeer.org
 www.freerainbowtables.com
 www.freethescene.net
-www.frozen-layer.com
 www.fullcontactzone.tv
 www.funfile.org
 www.funkytorrents.com
@@ -3203,7 +3197,6 @@ www.oradeatrk.ro
 www.oshen.win
 www.ostwiki.com
 www.oxtorrent.co
-www.oxtorrent.im
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
