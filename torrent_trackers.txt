@@ -2,7 +2,7 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
-02feb.rudub.online
+05feb.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
@@ -427,7 +427,6 @@ bt.firebit.org
 bt.hliang.com
 bt.hoshinet.org
 bt.koptevo.net
-bt.ktrackers.com
 bt.maiden666.com
 bt.mdan.org
 bt.mindwerks.net
@@ -440,7 +439,6 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
-bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -1034,7 +1032,6 @@ hdme.eu
 hdmega.unblckd.bet
 hdonline.unblocked.llc
 hdpre.ath.cx
-hdpt.xyz
 hdreactor.org
 hdroad.org
 hdroute.org
@@ -1151,7 +1148,6 @@ iptorrents.com
 iptorrents.me
 ipv4.rer.lol
 ipv4.tracker.harry.lu
-ipv4announce.sktorrent.eu
 ipv6.rer.lol
 ipv6.torrent.ubuntu.com
 iraniantorrents.com
@@ -1159,7 +1155,6 @@ irishtorrents.com
 irishtv.xyz
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
-isk.richardsw.club
 islamictorrents.net
 ismaarino.com
 isohunt.ch
@@ -1352,7 +1347,6 @@ mamba-jamba.com
 mamyte.lt
 mangatracker.kicks-ass.net
 marshilltorrents.redirectme.net
-martin-gebhardt.eu
 master-torrents-tracker.co.cc
 masters-tb.com
 matrix-virovitica.com
@@ -1530,7 +1524,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-ns-1.x-fins.com
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1563,8 +1556,6 @@ open.acgtracker.com
 open.cd
 open.demonii.com
 open.demonii.si
-open.dstud.io
-open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -2012,7 +2003,6 @@ sosulki.com
 soundplace.net
 southparkx.net
 spanishare2.com
-sparkle.ghostchu-services.top
 sparksden.org
 spatorrent.org
 special.pwtorrents.net
@@ -2281,7 +2271,6 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
-torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2476,7 +2465,6 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2487,7 +2475,6 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr3.ysagin.top
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2527,7 +2514,6 @@ tracker.btarena.org
 tracker.btnext.com
 tracker.btsync.gq
 tracker.bz
-tracker.cloudit.top
 tracker.clubb.ro
 tracker.conspiracycentral.net
 tracker.coppersurfer.tk
@@ -2547,7 +2533,6 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
-tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2568,11 +2553,9 @@ tracker.frozen-layer.com
 tracker.frozen-layer.net
 tracker.funfile.org
 tracker.gbitt.info
-tracker.gcrenwp.top
 tracker.gcvchp.com
 tracker.gigantino.net
 tracker.gigatorrents.ws
-tracker.gmi.gd
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
@@ -2618,7 +2601,6 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
-tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2664,7 +2646,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2680,7 +2661,6 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
-tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
@@ -2694,6 +2674,7 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
+tracker.wsaoa.eu.org
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2711,7 +2692,6 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2915,6 +2895,7 @@ wukongwendao.top
 wunza.ws
 ww1.torrent9.fm
 www-oxtorrent.com
+www-torrent9.com
 www-torrent911.com
 www.2bbit.com
 www.3dtorrents.org
@@ -3333,7 +3314,6 @@ www.torrent-pirat.com
 www.torrent.bg
 www.torrent.eu.org
 www.torrent411.com
-www.torrent9.men
 www.torrentaddict.org
 www.torrentazos.com
 www.torrentbase.ro
