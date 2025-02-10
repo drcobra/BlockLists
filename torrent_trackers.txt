@@ -2,7 +2,7 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
-08feb.rudub.online
+09feb.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
@@ -37,7 +37,6 @@
 52pt.site
 5mins.eu
 60-fps.org
-6ahddutb1ucc3cp.ru
 6tor.org
 7.rarbg.me
 7.rarbg.to
@@ -232,6 +231,7 @@ balkan-torrent.net
 balkanelite.org
 baltracker.net
 bandari.org
+bandito.byterunner.io
 bangbangtorrents.no-ip.info
 banglatorrents.com
 bangumi.moe
@@ -456,6 +456,7 @@ bt02.nnm-club.info
 bt1.archive.org
 bt1.the9.com
 bt1.xxxxbt.cc
+bt2.080609.xyz
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -679,7 +680,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1158,7 +1158,6 @@ irishtorrents.com
 irishtv.xyz
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
-isk.richardsw.club
 islamictorrents.net
 ismaarino.com
 isohunt.ch
@@ -1274,7 +1273,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1352,6 +1350,7 @@ mamba-jamba.com
 mamyte.lt
 mangatracker.kicks-ass.net
 marshilltorrents.redirectme.net
+martin-gebhardt.eu
 master-torrents-tracker.co.cc
 masters-tb.com
 matrix-virovitica.com
@@ -1499,7 +1498,6 @@ nemo.iptorrents.com
 nerealus.lt
 netbsd.org
 nethd.org
-new-line.net
 new-retro.eu
 newalbumreleases.unblocked.llc
 newapptorrent.com
@@ -1744,6 +1742,7 @@ pt.btschool.club
 pt.cdfile.org
 pt.eastgame.org
 pt.gtk.pw
+pt.gtkpw.xyz
 pt.hdclone.org
 pt.itzmx.com
 pt.keepfrds.com
@@ -2222,6 +2221,7 @@ tinboxtorrent.com
 tiraz.net
 titaniumtorrents.net
 titans-team.fr.cr
+tk.greedland.net
 tk1.trackerservers.com
 tlzdigital.com
 tmb.dj
@@ -2487,7 +2487,6 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr3.ysagin.top
 tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
@@ -2562,7 +2561,7 @@ tracker.fatkhoala.org
 tracker.fdn.fr
 tracker.filemail.com
 tracker.files.fm
-tracker.fnix.net
+tracker.foreverpirates.co
 tracker.frontalweb.com.ar
 tracker.frozen-layer.com
 tracker.frozen-layer.net
@@ -2570,7 +2569,6 @@ tracker.funfile.org
 tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gcvchp.com
-tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
 tracker.hama3.net
@@ -2587,7 +2585,7 @@ tracker.jiesen.life
 tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
-tracker.kmzs123.com
+tracker.kmzs123.cn
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2664,6 +2662,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2679,10 +2678,10 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
-tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
+tracker.tryhackx.org
 tracker.unbxdapi.com
 tracker.uniotaku.com
 tracker.uw0.xyz
@@ -2911,6 +2910,7 @@ ws.peer.ooo
 wukongwendao.top
 wunza.ws
 ww1.torrent9.fm
+www-gktorrent.com
 www-oxtorrent.com
 www-torrent9.com
 www-torrent911.com
@@ -2979,8 +2979,7 @@ www.brainspot.info
 www.brasiltorrents.com
 www.bt-revolution.net
 www.btarg.com.ar
-www.btmulu.asia
-www.btmulu.digital
+www.btmulu.cyou
 www.btmulu.one
 www.btnext.com
 www.bttrove.org
@@ -3076,7 +3075,6 @@ www.gaytor.rent
 www.genesis-sp.org
 www.gettorrents.org
 www.gimmepeers.com
-www.gktorrent.cv
 www.gm-realm.net
 www.grabthe.info
 www.greekshare.net
