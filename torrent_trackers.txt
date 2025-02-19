@@ -20,8 +20,8 @@
 1337x.unblocked.llc
 1337x.unblockninja.com
 13mag.net
-16feb.rudub.online
 16mag.net
+18feb.rudub.online
 1bt.ru
 1nd.hu
 1ptba.com
@@ -676,6 +676,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1200,7 +1201,9 @@ katz.to
 kazenokoefansubs.fansub-torrents.com
 kaztorka.org
 kick4ss.com
+kickass-kat.com
 kickass.me.uk
+kickass.sh
 kickass.torrentbay.st
 kickass.torrentsbay.org
 kickass.ws
@@ -1571,7 +1574,6 @@ open.selezen.top
 open.stealth.si
 open.touki.ru
 open.tracker.cl
-open.tracker.ink
 open.tracker.thepiratebay.org
 open.trackerlist.xyz
 openbittorrent.com
@@ -1817,6 +1819,7 @@ redskunk.org
 reelflix.xyz
 reggae-lossless.no-ip.org
 reggaetraders.net
+region.nl1.privex.cc
 releases.static-subs.com
 reload-paradise.net
 reprobate.se
@@ -2219,6 +2222,7 @@ tinboxtorrent.com
 tiraz.net
 titaniumtorrents.net
 titans-team.fr.cr
+tjupt.org
 tk.greedland.net
 tk1.trackerservers.com
 tlzdigital.com
@@ -2279,7 +2283,6 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
-torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2474,6 +2477,7 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2495,6 +2499,7 @@ tracker.0day.community
 tracker.0x7c0.com
 tracker.36dm.com
 tracker.3arbya.com
+tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
 tracker.aletorrenty.pl
@@ -2582,11 +2587,10 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
 tracker.kmzs123.cn
-tracker.kmzs123.com
+tracker.kmzs123.top
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
-tracker.leechshield.link
 tracker.lelux.fi
 tracker.lilithraws.cf
 tracker.lilithraws.org
@@ -2661,7 +2665,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
