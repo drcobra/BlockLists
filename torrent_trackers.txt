@@ -21,11 +21,11 @@
 1337x.unblockninja.com
 13mag.net
 16mag.net
-18feb.rudub.online
 1bt.ru
 1nd.hu
 1ptba.com
 2.tracker.eu.org
+22feb.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
@@ -398,6 +398,7 @@ brasiltracker.org
 braziltorrents.com
 breathetheword.org.uk
 broadcasthe.net
+brokenhelix.loseyourip.com
 brokenstones.is
 brokenstones.me
 browntracker.net
@@ -437,6 +438,7 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
+bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -702,7 +704,6 @@ dragon-torrents.biz
 dragons-den.net
 dragons-dungeon.com
 dream-torrents.com
-dream-tracker.net
 dreamingtree.org
 dreamora.com
 dreamorabt.com
@@ -889,7 +890,6 @@ forum.wgbh.org
 forums.bootleg.org.uk
 forums.darkside-raws.net
 forums.mvgroup.org
-fosstorrents.com
 fourfriends.biz
 fox-kids.info
 frankyflip.dns1.us
@@ -1273,7 +1273,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1324,7 +1323,6 @@ lovethescene.net
 lsd-tracker.eu
 lst.gg
 lunatech.zaeleus.org
-lusthive.org
 m0m0m0m.mnmnmnmnmn.com
 m2ktalk.com
 mabula.net
@@ -1574,6 +1572,7 @@ open.selezen.top
 open.stealth.si
 open.touki.ru
 open.tracker.cl
+open.tracker.ink
 open.tracker.thepiratebay.org
 open.trackerlist.xyz
 openbittorrent.com
@@ -1819,7 +1818,6 @@ redskunk.org
 reelflix.xyz
 reggae-lossless.no-ip.org
 reggaetraders.net
-region.nl1.privex.cc
 releases.static-subs.com
 reload-paradise.net
 reprobate.se
@@ -1835,6 +1833,7 @@ retracker.netbynet.ru
 retracker.sevstar.net
 retracker.spark-rostov.ru
 retracker.x2k.ru
+retracker01-msk-virt.corbina.net
 retroflix.club
 reve.filserver.com
 revolution-world.com
@@ -2283,6 +2282,7 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
+torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2319,7 +2319,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg47.com
+torrentegg48.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2378,7 +2378,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq355.com
+torrentqq356.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2549,6 +2549,7 @@ tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
+tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.elektronik.ro
 tracker.enitin.xyz
@@ -2587,7 +2588,6 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
 tracker.kmzs123.cn
-tracker.kmzs123.top
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2695,6 +2695,7 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
+tracker.wsaoa.eu.org
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2704,7 +2705,6 @@ tracker.ydy.com
 tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
-tracker.yume-hatsuyuki.moe
 tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
@@ -2712,7 +2712,6 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2916,10 +2915,6 @@ ws.peer.ooo
 wukongwendao.top
 wunza.ws
 ww1.torrent9.fm
-www-gktorrent.com
-www-oxtorrent.com
-www-torrent9.com
-www-torrent911.com
 www-zetorrents.com
 www.2bbit.com
 www.3dtorrents.org
@@ -3189,6 +3184,7 @@ www.nhltorrents.co.uk
 www.nicept.net
 www.nietono.com
 www.nnm-club.info
+www.nortorrent.com
 www.nowarez.se
 www.nyaatorrents.org
 www.okpt.net
@@ -3200,6 +3196,7 @@ www.oradeatrk.ro
 www.oshen.win
 www.ostwiki.com
 www.oxtorrent.co
+www.oxtorrent1.com
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
@@ -3433,7 +3430,9 @@ www.zetatracker.org
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
+www.zktorrent.com
 www.zonaq.pw
+www.zone-torrent.com
 www.zone-torrent.net
 www.zoubhd.org
 www1.cpasbien.to
