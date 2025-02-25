@@ -25,7 +25,7 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-22feb.rudub.online
+25feb.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
@@ -398,7 +398,6 @@ brasiltracker.org
 braziltorrents.com
 breathetheword.org.uk
 broadcasthe.net
-brokenhelix.loseyourip.com
 brokenstones.is
 brokenstones.me
 browntracker.net
@@ -438,7 +437,6 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
-bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -1273,6 +1271,7 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
+leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1497,7 +1496,6 @@ nemo.iptorrents.com
 nerealus.lt
 netbsd.org
 nethd.org
-new-line.net
 new-retro.eu
 newalbumreleases.unblocked.llc
 newapptorrent.com
@@ -1678,6 +1676,7 @@ planetorrent.org
 plaver.org
 playsensation.ro
 pleasuredome.org.uk
+plugintorrent.com
 pmtorrents.com
 podkrovlje.net
 pof.hu
@@ -2427,7 +2426,7 @@ torrentseed.org
 torrentseeds.org
 torrentsforall.net
 torrentsgalaxy.com
-torrentsir166.com
+torrentsir167.com
 torrentslab.com
 torrentsmd.com
 torrentsmexico.com
@@ -2438,6 +2437,7 @@ torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
+torrentssg7.com
 torrenttime.org
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
@@ -2477,7 +2477,6 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2588,6 +2587,7 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
 tracker.kmzs123.cn
+tracker.kmzs123.top
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2612,6 +2612,7 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2619,7 +2620,6 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
-tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2695,7 +2695,6 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
-tracker.wsaoa.eu.org
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2712,6 +2711,7 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -3196,7 +3196,7 @@ www.oradeatrk.ro
 www.oshen.win
 www.ostwiki.com
 www.oxtorrent.co
-www.oxtorrent1.com
+www.oxtorrent2.com
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
