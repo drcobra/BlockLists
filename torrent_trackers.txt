@@ -2,6 +2,7 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
+01mar.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
@@ -25,7 +26,6 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-25feb.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
@@ -1215,7 +1215,6 @@ kickasstorrents.ninjaproxy1.com
 kickasstorrents.proxyninja.net
 kickasstorrents.proxyninja.org
 kickasstorrents.pw
-kickasstorrents.to
 kickasstorrents.unblockninja.com
 kickmedown.com
 kidsbits.org
@@ -1559,7 +1558,6 @@ open.acgtracker.com
 open.cd
 open.demonii.com
 open.demonii.si
-open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
@@ -2281,7 +2279,6 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
-torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2318,7 +2315,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg48.com
+torrentegg49.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2377,7 +2374,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq356.com
+torrentqq357.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2477,6 +2474,7 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2487,6 +2485,7 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
+tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2548,7 +2547,6 @@ tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
-tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.elektronik.ro
 tracker.enitin.xyz
@@ -2620,6 +2618,7 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
+tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2632,6 +2631,7 @@ tracker.parrotsec.org
 tracker.pbits.org
 tracker.pirateparty.gr
 tracker.playmanija.net
+tracker.pmman.tech
 tracker.pomf.se
 tracker.pow7.com
 tracker.prq.to
@@ -2665,6 +2665,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2680,7 +2681,6 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
-tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
@@ -3127,6 +3127,7 @@ www.jungle-pirates.com
 www.justinwb.com
 www.kannadatorrents.com
 www.keitex.net
+www.kickasstorrents.do
 www.kidsbits.org
 www.kikken.org
 www.kingdom-kvcd.net
