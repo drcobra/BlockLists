@@ -2,7 +2,7 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
-01mar.rudub.online
+03mar.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
@@ -152,7 +152,6 @@ anthelion.me
 antsmarching.org
 anvilofsound.com
 api.broadcasthe.net
-api.ipv4online.uk
 apnaview.unblocked.llc
 apptracker.org
 appz.bitshock.org
@@ -1270,7 +1269,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1525,7 +1523,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-ns-1.x-fins.com
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1558,6 +1555,7 @@ open.acgtracker.com
 open.cd
 open.demonii.com
 open.demonii.si
+open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
@@ -2134,7 +2132,6 @@ tektorrent.net
 tennistorrents.com
 tenyardtorrents.com
 teracod.hu
-teracod.net
 tfa.tf
 tgbpd.com
 tgbtd.com
@@ -2482,10 +2479,9 @@ tr.cili001.com
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 tr.kxmp.cf
-tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr4ck3r.duckdns.org
+tr3.ysagin.top
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2585,7 +2581,6 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
 tracker.kmzs123.cn
-tracker.kmzs123.top
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2681,6 +2676,7 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
+tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
@@ -2707,6 +2703,7 @@ tracker.yoshi210.com
 tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
+tracker.zhuqiy.top
 tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
@@ -2915,7 +2912,6 @@ ws.peer.ooo
 wukongwendao.top
 wunza.ws
 ww1.torrent9.fm
-www-zetorrents.com
 www.2bbit.com
 www.3dtorrents.org
 www.529053.xyz
@@ -3185,7 +3181,7 @@ www.nhltorrents.co.uk
 www.nicept.net
 www.nietono.com
 www.nnm-club.info
-www.nortorrent.com
+www.nortorrent1.com
 www.nowarez.se
 www.nyaatorrents.org
 www.okpt.net
@@ -3197,7 +3193,7 @@ www.oradeatrk.ro
 www.oshen.win
 www.ostwiki.com
 www.oxtorrent.co
-www.oxtorrent2.com
+www.oxtorrent1.com
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
@@ -3428,10 +3424,11 @@ www.ygg.re
 www.yuwabits.net
 www.zeoez.com
 www.zetatracker.org
+www.zetorrents1.com
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
-www.zktorrent.com
+www.zktorrent1.com
 www.zonaq.pw
 www.zone-torrent.com
 www.zone-torrent.net
