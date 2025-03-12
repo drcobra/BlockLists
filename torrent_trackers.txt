@@ -2,12 +2,12 @@
 0.torrentoyunindir.com
 00-torrnets.com
 0123456789nonexistent.com
-09mar.rudub.online
 0d.kebhana.mx
 0day.ro
 0magnet.co
 0second.com
 10mbit.com
+11mar.rudub.online
 123bits.org
 1337.abcvg.info
 1337x.ninjaproxy1.com
@@ -30,11 +30,13 @@
 2ddl.unblocked.llc
 3.tracker.eu.org
 3changtrai.com
+4.tracker.devnak.win
 420project.org
 45rpmtorrents.com
 4thd.xyz
 52pt.site
 5mins.eu
+6.tracker.devnak.win
 60-fps.org
 6tor.org
 7.rarbg.me
@@ -437,6 +439,7 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
+bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -675,6 +678,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -908,6 +912,7 @@ frozen10mbit.no-ip.com
 fsm.name
 fss.omnilounge.co.uk
 fst.omnilounge.co.uk
+ftp.pet
 fubar.com.ar
 fulldls.com
 funfile.org
@@ -1153,7 +1158,6 @@ irishtorrents.com
 irishtv.xyz
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
-isk.richardsw.club
 islamictorrents.net
 ismaarino.com
 isohunt.ch
@@ -1271,6 +1275,7 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
+leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1570,7 +1575,6 @@ open.selezen.org
 open.selezen.top
 open.stealth.si
 open.touki.ru
-open.tracker.cl
 open.tracker.ink
 open.tracker.thepiratebay.org
 open.trackerlist.xyz
@@ -1832,6 +1836,7 @@ retracker.local
 retracker.netbynet.ru
 retracker.sevstar.net
 retracker.spark-rostov.ru
+retracker.x2k.ru
 retracker01-msk-virt.corbina.net
 retroflix.club
 reve.filserver.com
@@ -2212,6 +2217,7 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
+threads.canofsocks.com
 throughput.de
 tibimate.es
 tigerblack.net
@@ -2473,6 +2479,7 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2483,7 +2490,8 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr4ck3r.duckdns.org
+tr2.trkb.ru
+tr3.ysagin.top
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2506,6 +2514,7 @@ tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.apaixtoi.info
 tracker.baltracker.net
+tracker.beeimg.com
 tracker.birkenwald.de
 tracker.bitebbs.com
 tracker.bitreactor.to
@@ -2540,6 +2549,7 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
+tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2570,9 +2580,11 @@ tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
 tracker.highlandfox.com
+tracker.home.kmzs123.cn
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.itscraftsoftware.my.id
@@ -2582,6 +2594,7 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
 tracker.kmzs123.cn
+tracker.kmzs123.top
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2615,6 +2628,7 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
+tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2646,7 +2660,6 @@ tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.sktorrent.net
 tracker.skyts.cn
-tracker.skyts.net
 tracker.sladinki007.net
 tracker.sloppyta.co
 tracker.sneakyvidz.com
@@ -2662,6 +2675,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2753,6 +2767,7 @@ tribalmixes.com
 triptorrents.com
 troypoint.com
 trun.tom.ru
+trunker.ghostchu-services.top
 trupornolabs.org
 trurl3.pl
 tryfreegames.com
