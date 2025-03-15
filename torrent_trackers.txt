@@ -7,7 +7,6 @@
 0magnet.co
 0second.com
 10mbit.com
-11mar.rudub.online
 123bits.org
 1337.abcvg.info
 1337x.ninjaproxy1.com
@@ -21,6 +20,7 @@
 1337x.unblocked.llc
 1337x.unblockninja.com
 13mag.net
+13mar.rudub.online
 16mag.net
 1bt.ru
 1nd.hu
@@ -48,7 +48,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
-Torrenttip166.com
+Torrenttip167.com
 a-bt.ath.cx
 a.leopard-raws.org
 a.scarywater.net
@@ -439,7 +439,6 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
-bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -678,7 +677,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1158,6 +1156,7 @@ irishtorrents.com
 irishtv.xyz
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
+isk.richardsw.club
 islamictorrents.net
 ismaarino.com
 isohunt.ch
@@ -1275,7 +1274,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1855,6 +1853,7 @@ rmvbusters.pl
 rnbxclusive.unblocked.llc
 robotolabs.cjb.net
 rochestergroove.com
+rocket-hd.cc
 rockhard-torrents.com
 rojadirecta.unblocked.llc
 rollingstones.kicks-ass.org
@@ -2273,6 +2272,7 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
+torrent.hificode.in
 torrent.janemusic.org
 torrent.jiwang.cc
 torrent.lt
@@ -2379,7 +2379,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq358.com
+torrentqq359.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2434,7 +2434,7 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome185.com
+torrentsome186.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
@@ -2479,7 +2479,6 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2490,8 +2489,7 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr2.trkb.ru
-tr3.ysagin.top
+tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2500,6 +2498,7 @@ tracker-mk.org
 tracker-udp.gbitt.info
 tracker.0day.community
 tracker.0x7c0.com
+tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
 tracker.aburaya.live
@@ -2573,6 +2572,7 @@ tracker.funfile.org
 tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gcvchp.com
+tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
@@ -2659,6 +2659,7 @@ tracker.sextorrents.ru
 tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.sktorrent.net
+tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.sladinki007.net
 tracker.sloppyta.co
@@ -2767,7 +2768,6 @@ tribalmixes.com
 triptorrents.com
 troypoint.com
 trun.tom.ru
-trunker.ghostchu-services.top
 trupornolabs.org
 trurl3.pl
 tryfreegames.com
@@ -2821,6 +2821,7 @@ ubits.club
 udp.tracker.projectk.org
 uhdbits.org
 uid.hu
+uindex.org
 uknova.com
 uks-torrents.no-ip.com
 uktorrents.com
@@ -2848,6 +2849,7 @@ ut.bench.utorrent.com
 utclient.utorrent.com
 utorrent.com
 utp.to
+utracker.ghostchu-services.top
 uzhis.homeip.net
 valakas.rollo.dnsabr.com
 vault-network.net
