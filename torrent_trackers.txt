@@ -21,11 +21,11 @@
 1337x.unblockninja.com
 13mag.net
 16mag.net
-18mar.rudub.online
 1bt.ru
 1nd.hu
 1ptba.com
 2.tracker.eu.org
+21mar.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
@@ -47,7 +47,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
-Torrenttip167.com
+Torrenttip168.com
 a-bt.ath.cx
 a.leopard-raws.org
 a.scarywater.net
@@ -69,6 +69,7 @@ acetorrents.net
 acg.rip
 acrossthetasman.com
 adamsfile.com
+admin.52ywp.com
 adult-cinema-network.net
 adultsins.net
 af.feedroom.com
@@ -678,7 +679,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -731,6 +731,7 @@ ebooks-shares.org
 ebookshare.net
 ebooksshares.org
 ebookvortex.com
+ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 ed2k.vip
 eddie4.nl
 eek.edwardk.info
@@ -856,7 +857,6 @@ filelist.ro
 filemp3.org
 fileporn.org
 filerush.com
-files.project-cataclysm.ru
 fileshare.lv
 filesoup.co.uk
 filezoneworld.com
@@ -1532,6 +1532,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns-1.x-fins.com
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1565,7 +1566,6 @@ open.cd
 open.demonii.com
 open.demonii.si
 open.dstud.io
-open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -2272,6 +2272,7 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
+torrent.hificode.in
 torrent.i.ng
 torrent.janemusic.org
 torrent.jiwang.cc
@@ -2321,7 +2322,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg51.com
+torrentegg52.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2379,7 +2380,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq359.com
+torrentqq360.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2434,7 +2435,7 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome186.com
+torrentsome187.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
@@ -2479,6 +2480,7 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr.abiir.top
 tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
@@ -2549,9 +2551,11 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
+tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
+tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.elektronik.ro
 tracker.enitin.xyz
@@ -2576,7 +2580,6 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
-tracker.guguan.dpdns.org
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
@@ -2605,6 +2608,7 @@ tracker.lilithraws.org
 tracker.linkomanija.org
 tracker.lintk.me
 tracker.linvk.com
+tracker.lyretain.site
 tracker.mahou.org
 tracker.majin2007.com
 tracker.manga-anime.ro
@@ -2620,7 +2624,6 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
-tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2659,7 +2662,6 @@ tracker.sextorrents.ru
 tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.sktorrent.net
-tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.sladinki007.net
 tracker.sloppyta.co
@@ -2724,6 +2726,7 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
