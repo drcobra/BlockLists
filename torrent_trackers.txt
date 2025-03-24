@@ -25,12 +25,11 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-21mar.rudub.online
+24mar.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
 3changtrai.com
-4.tracker.devnak.win
 420project.org
 45rpmtorrents.com
 4thd.xyz
@@ -479,7 +478,7 @@ btscene.com
 btscene.unblocked.llc
 btsite.eu
 btsound.net
-btsow.motorcycles
+btsow.pics
 bttracker.debian.org
 bttrove.org
 btwarehouse.org
@@ -679,6 +678,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1175,7 +1175,6 @@ iwatchonline.unblocked.llc
 jamendo.com
 jamtothis.com
 japan-tv.afraid.org
-jav-torrent.net
 jme-reunit3d.de
 jopa.cz
 josefinefan.dyndns.org
@@ -1566,6 +1565,7 @@ open.cd
 open.demonii.com
 open.demonii.si
 open.dstud.io
+open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -1664,6 +1664,7 @@ pirateiro.unblocked.llc
 pirateproxy-bay.com
 pirateproxylive.org
 pirates-cove.biz
+piratesparadise.org
 piratetorrents.nu
 pirateworld.org
 pirateyes.org
@@ -2272,7 +2273,6 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
-torrent.hificode.in
 torrent.i.ng
 torrent.janemusic.org
 torrent.jiwang.cc
@@ -2386,7 +2386,6 @@ torrentreactor.net
 torrentrush.info
 torrents-csv.com
 torrents-heaven.com
-torrents-local.xyz
 torrents-nn.cn
 torrents-time.com
 torrents-zone.com
@@ -2551,7 +2550,6 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
-tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2580,10 +2578,12 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
+tracker.guguan.dpdns.org
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
 tracker.highlandfox.com
+tracker.home.kmzs123.cn
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
@@ -2678,7 +2678,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -3169,6 +3168,7 @@ www.manicomio-share.com
 www.maroctorrent.net
 www.medbit.ru
 www.mega-bits.com
+www.mega-torrent3.com
 www.megatorrents.kg
 www.megaups.com
 www.metalbits.org
@@ -3364,7 +3364,6 @@ www.torrentech.org
 www.torrentfriend.net
 www.torrentfunk.com
 www.torrentfunk2.com
-www.torrentheaven.org
 www.torrenthr.org
 www.torrential.ws
 www.torrentit.eu
@@ -3437,7 +3436,7 @@ www.xthor.net
 www.xtremezone.ro
 www.xwt-classics.net
 www.yeeshkul.com
-www.ygg.re
+www.yggtorrent.top
 www.yuwabits.net
 www.zeoez.com
 www.zetatracker.org
@@ -3447,8 +3446,8 @@ www.zinebytes.org
 www.zionteam.org
 www.zktorrent2.com
 www.zonaq.pw
-www.zone-torrent.com
 www.zone-torrent.net
+www.zone-torrent1.com
 www.zoubhd.org
 www1.cpasbien.to
 www2.digitaldistractions.org
@@ -3525,6 +3524,7 @@ z.paranoid.agency
 zamunda.ch
 zamunda.net
 zamunda.se
+zappateers.com
 zcultfm.com
 zeduga.com
 zelka.org
