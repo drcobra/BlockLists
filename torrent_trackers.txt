@@ -25,7 +25,6 @@
 1nd.hu
 1ptba.com
 2.tracker.eu.org
-27mar.rudub.online
 2bbit.com
 2ddl.unblocked.llc
 3.tracker.eu.org
@@ -678,7 +677,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -911,6 +909,7 @@ frozen10mbit.no-ip.com
 fsm.name
 fss.omnilounge.co.uk
 fst.omnilounge.co.uk
+ftp.pet
 fubar.com.ar
 fulldls.com
 funfile.org
@@ -1350,6 +1349,7 @@ malayabits.cc
 mamba-jamba.com
 mamyte.lt
 mangatracker.kicks-ass.net
+mar30.rudub.vip
 marshilltorrents.redirectme.net
 martin-gebhardt.eu
 master-torrents-tracker.co.cc
@@ -1530,7 +1530,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-ns-1.x-fins.com
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1563,7 +1562,6 @@ open.acgtracker.com
 open.cd
 open.demonii.com
 open.demonii.si
-open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
@@ -2273,6 +2271,7 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
+torrent.hificode.in
 torrent.i.ng
 torrent.janemusic.org
 torrent.jiwang.cc
@@ -2551,10 +2550,10 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
-tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
+tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.elektronik.ro
 tracker.enitin.xyz
@@ -2624,7 +2623,6 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
-tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2694,7 +2692,6 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
-tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
@@ -2851,6 +2848,7 @@ ut.bench.utorrent.com
 utclient.utorrent.com
 utorrent.com
 utp.to
+utracker.ghostchu-services.top
 uzhis.homeip.net
 valakas.rollo.dnsabr.com
 vault-network.net
@@ -3200,7 +3198,7 @@ www.nhltorrents.co.uk
 www.nicept.net
 www.nietono.com
 www.nnm-club.info
-www.nortorrent3.com
+www.nortorrent4.com
 www.nowarez.se
 www.nyaatorrents.org
 www.okpt.net
@@ -3446,7 +3444,7 @@ www.zetorrents1.com
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
-www.zktorrent2.com
+www.zktorrent3.com
 www.zonaq.pw
 www.zone-torrent.net
 www.zone-torrent1.com
