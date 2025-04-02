@@ -29,11 +29,13 @@
 2ddl.unblocked.llc
 3.tracker.eu.org
 3changtrai.com
+4.tracker.devnak.win
 420project.org
 45rpmtorrents.com
 4thd.xyz
 52pt.site
 5mins.eu
+6.tracker.devnak.win
 60-fps.org
 6tor.org
 7.rarbg.me
@@ -45,7 +47,6 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
-Torrenttip169.com
 a-bt.ath.cx
 a.leopard-raws.org
 a.scarywater.net
@@ -157,6 +158,7 @@ apnaview.unblocked.llc
 apptracker.org
 appz.bitshock.org
 appzuniverse.org
+apr03.rudub.vip
 arab-files.org
 arab-torrents.net
 arabfilms.org
@@ -438,7 +440,6 @@ bt.planetq.net
 bt.play-skill.com
 bt.poletracker.org
 bt.pusacg.org
-bt.rer.lol
 bt.saiyaman.info
 bt.servequake.com
 bt.shinsen-subs.org
@@ -677,6 +678,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -888,6 +890,7 @@ forum.wgbh.org
 forums.bootleg.org.uk
 forums.darkside-raws.net
 forums.mvgroup.org
+fosstorrents.com
 fourfriends.biz
 fox-kids.info
 frankyflip.dns1.us
@@ -1155,7 +1158,6 @@ irishtorrents.com
 irishtv.xyz
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
-isk.richardsw.club
 islamictorrents.net
 ismaarino.com
 isohunt.ch
@@ -1349,7 +1351,6 @@ malayabits.cc
 mamba-jamba.com
 mamyte.lt
 mangatracker.kicks-ass.net
-mar30.rudub.vip
 marshilltorrents.redirectme.net
 martin-gebhardt.eu
 master-torrents-tracker.co.cc
@@ -1530,6 +1531,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns-1.x-fins.com
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1562,6 +1564,7 @@ open.acgtracker.com
 open.cd
 open.demonii.com
 open.demonii.si
+open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
@@ -2216,6 +2219,7 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
+thouvenin.cloud
 throughput.de
 tibimate.es
 tigerblack.net
@@ -2427,13 +2431,13 @@ torrentseed.org
 torrentseeds.org
 torrentsforall.net
 torrentsgalaxy.com
-torrentsir170.com
+torrentsir171.com
 torrentslab.com
 torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome188.com
+torrentsome189.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
@@ -2441,6 +2445,7 @@ torrentsrmine.org
 torrentsrus.com
 torrentssg7.com
 torrenttime.org
+torrenttip170.com
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2479,7 +2484,6 @@ tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
 tr.abiir.top
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -2491,7 +2495,6 @@ tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
 tr3.ysagin.top
-tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
@@ -2503,7 +2506,6 @@ tracker.0x7c0.com
 tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
-tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
 tracker.aletorrenty.pl
@@ -2550,10 +2552,10 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
+tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
-tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.elektronik.ro
 tracker.enitin.xyz
@@ -2623,6 +2625,7 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2643,6 +2646,7 @@ tracker.parrotsec.org
 tracker.pbits.org
 tracker.pirateparty.gr
 tracker.playmanija.net
+tracker.pmman.tech
 tracker.pomf.se
 tracker.pow7.com
 tracker.privateseedbox.xyz
@@ -2676,7 +2680,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.tiny-vps.com
 tracker.tlm-project.org
@@ -2692,6 +2695,7 @@ tracker.torrentsnows.com
 tracker.torrentsrus.co.uk
 tracker.torrenty.org
 tracker.torrentyorg.pl
+tracker.torrust-demo.com
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
@@ -3239,6 +3243,7 @@ www.progressivetorrents.com
 www.prophecywatch.com
 www.ptfiles.org
 www.pthome.net
+www.ptlover.cc
 www.pttime.org
 www.punkskahxc.com
 www.punktorrents.com
