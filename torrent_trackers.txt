@@ -66,7 +66,6 @@ acetorrents.net
 acg.rip
 acrossthetasman.com
 adamsfile.com
-admin.52ywp.com
 adult-cinema-network.net
 adultsins.net
 af.feedroom.com
@@ -156,7 +155,6 @@ apnaview.unblocked.llc
 apptracker.org
 appz.bitshock.org
 appzuniverse.org
-apr27.rudub.biz
 arab-files.org
 arab-torrents.net
 arabfilms.org
@@ -526,7 +524,6 @@ central-torrent.eu
 centraltracker.org
 cfhtracker.info
 cgpeers.to
-ch3oh.ru
 chaos-wasteland.dyndns.org
 chdbits.co
 chdbits.org
@@ -682,7 +679,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -735,7 +731,6 @@ ebooks-shares.org
 ebookshare.net
 ebooksshares.org
 ebookvortex.com
-ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 ed2k.vip
 eddie4.nl
 eek.edwardk.info
@@ -821,7 +816,6 @@ familyguytorrents.com
 familytorrent.ath.cx
 fanclubt.com
 fano.lv
-fappaizuri.me
 fast-tracker.net
 faster-torrents.co.uk
 fat.lv
@@ -893,6 +887,7 @@ forum.wgbh.org
 forums.bootleg.org.uk
 forums.darkside-raws.net
 forums.mvgroup.org
+fosstorrents.com
 fourfriends.biz
 fox-kids.info
 frankyflip.dns1.us
@@ -1357,6 +1352,7 @@ matrix-virovitica.com
 matrixtorrents.com
 matrixworld.info
 maximum-overdrive.info
+may03.rudub.biz
 mazepa.to
 mazetorrents.net
 mazysmadhouse.net
@@ -1529,6 +1525,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns3109441.mypdns.org
 ntelogo.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1562,7 +1559,6 @@ open.cd
 open.demonii.com
 open.demonii.si
 open.dstud.io
-open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -1616,6 +1612,7 @@ panda.cd
 pandapt.net
 pandopuntokualda.com
 pantherabits.com
+parabellumhd.cx
 paranetinfo.com
 parliamentlive.tv
 partis.si
@@ -1856,7 +1853,6 @@ rojadirecta.unblocked.llc
 rollingstones.kicks-ass.org
 romanianfile.info
 romaniatorrent.ro
-rotorrent.ro
 rousi.zip
 router.utorrent.com
 royal-orleans.com
@@ -2271,7 +2267,6 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
-torrent.hificode.in
 torrent.i.ng
 torrent.janemusic.org
 torrent.jiwang.cc
@@ -2321,7 +2316,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg57.com
+torrentegg58.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2376,7 +2371,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq365.com
+torrentqq366.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2421,7 +2416,6 @@ torrentscity.net
 torrentsdownload.net
 torrentsearch.com
 torrentseed.org
-torrentseeds.org
 torrentsforall.net
 torrentsgalaxy.com
 torrentsir172.com
@@ -2430,7 +2424,7 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome192.com
+torrentsome193.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
@@ -2438,7 +2432,7 @@ torrentsrmine.org
 torrentsrus.com
 torrentssg7.com
 torrenttime.org
-torrenttip173.com
+torrenttip174.com
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2477,7 +2471,6 @@ tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
 tr.abiir.top
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2487,7 +2480,6 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
-tr3.ysagin.top
 tr4ck3r.duckdns.org
 track.sextorrent.to
 trackarr.org
@@ -2541,6 +2533,7 @@ tracker.darkness.services
 tracker.datorrents.com
 tracker.ddunlimited.net
 tracker.deadfrog.us
+tracker.deadorbit.nl
 tracker.deluxebits.to
 tracker.denness.net
 tracker.dler.com
@@ -2549,6 +2542,7 @@ tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
 tracker.ducks.party
+tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2585,7 +2579,6 @@ tracker.hqmusic.info
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
-tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.itscraftsoftware.my.id
@@ -2623,6 +2616,7 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2676,7 +2670,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.therarbg.to
 tracker.tiny-vps.com
@@ -2698,6 +2691,7 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trancetraffic.com
 tracker.tricitytorrents.com
+tracker.tritan.gg
 tracker.tryhackx.org
 tracker.unbxdapi.com
 tracker.uniotaku.com
@@ -2727,7 +2721,6 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2850,6 +2843,7 @@ ut.bench.utorrent.com
 utclient.utorrent.com
 utorrent.com
 utp.to
+utracker.ghostchu-services.top
 uzhis.homeip.net
 valakas.rollo.dnsabr.com
 vault-network.net
@@ -2931,9 +2925,14 @@ wunza.ws
 ww1.torrent9.fm
 www.2bbit.com
 www.3dtorrents.org
-www.529053.xyz
-www.529055.xyz
+www.529056.xyz
+www.529057.xyz
 www.700m.bz
+www.8800460.xyz
+www.8800467.xyz
+www.8800468.xyz
+www.8800471.xyz
+www.8800472.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3008,11 +3007,6 @@ www.chinadocumentaries.com
 www.choicebits.info
 www.cinemanija.com
 www.classiccinemazone.com
-www.clm446.buzz
-www.clm447.buzz
-www.clm448.buzz
-www.clm449.buzz
-www.clm450.buzz
 www.comicat.org
 www.comicsearch.co.uk
 www.community-palace.co.uk
@@ -3062,6 +3056,7 @@ www.evil-zone.org
 www.evolution-network.ws
 www.extremebits.org
 www.fano.in
+www.fappaizuri.me
 www.fast-tracker.net
 www.fbtz.com
 www.filebase.ws
@@ -3153,7 +3148,6 @@ www.leechland.net
 www.leechturk.com
 www.legittorrents.info
 www.libble.com
-www.libronube.com
 www.limetorrents.lol
 www.linderlane.nl
 www.linkomanija.net
