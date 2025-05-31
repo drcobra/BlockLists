@@ -479,6 +479,7 @@ btscene.unblocked.llc
 btsite.eu
 btsound.net
 btsow.pics
+btstate.com
 bttracker.debian.org
 bttrove.org
 btwarehouse.org
@@ -679,6 +680,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divteam.com
 divx38.boardu.org
 divxatope.com
@@ -1313,7 +1315,6 @@ loushao.net
 lovethescene.net
 lsd-tracker.eu
 lst.gg
-lucke.fenesisu.moe
 lunatech.zaeleus.org
 m0m0m0m.mnmnmnmnmn.com
 m2ktalk.com
@@ -1348,7 +1349,7 @@ matrix-virovitica.com
 matrixtorrents.com
 matrixworld.info
 maximum-overdrive.info
-may24.rudub.run
+may31.rudub.run
 mazepa.to
 mazetorrents.net
 mazysmadhouse.net
@@ -1521,6 +1522,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns-1.x-fins.com
 ns3109441.mypdns.org
 ntelogo.org
 ntorrent.yoyo.pl
@@ -1754,6 +1756,7 @@ ptfiles.net
 ptfiles.org
 ptsbao.club
 ptvicomo.net
+public.tracker.vraphim.com
 publicdomaintorrents.com
 publiclibrary.metamute.org
 punck-tracker.net
@@ -2174,7 +2177,7 @@ themixingbowl.org
 theoccult.bz
 theoccult.click
 theoldschool.cc
-theparadiese.org
+theparadiese.hopto.org
 thepeerhub.com
 thepiratebay.cloud
 thepiratebay.cx
@@ -2207,7 +2210,6 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
-thouvenin.cloud
 threads.canofsocks.com
 throughput.de
 tibimate.es
@@ -2264,7 +2266,6 @@ torrent.desi
 torrent.e2k.ru
 torrent.fedoraproject.org
 torrent.genesis-movement.org
-torrent.hificode.in
 torrent.i.ng
 torrent.janemusic.org
 torrent.jiwang.cc
@@ -2314,7 +2315,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg61.com
+torrentegg62.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2372,7 +2373,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq369.com
+torrentqq370.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2419,21 +2420,20 @@ torrentsearch.com
 torrentseed.org
 torrentsforall.net
 torrentsgalaxy.com
-torrentsir174.com
+torrentsir175.com
 torrentslab.com
 torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome196.com
+torrentsome197.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip176.com
-torrenttip177.com
+torrenttip178.com
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2472,6 +2472,7 @@ tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
 tr.abiir.top
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2576,6 +2577,7 @@ tracker.gmi.gd
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
+tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.highlandfox.com
 tracker.hqmusic.info
@@ -2603,7 +2605,6 @@ tracker.lilithraws.cf
 tracker.linkomanija.org
 tracker.lintk.me
 tracker.linvk.com
-tracker.lyretain.site
 tracker.mahou.org
 tracker.majin2007.com
 tracker.manga-anime.ro
@@ -2628,6 +2629,7 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
+tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2701,6 +2703,7 @@ tracker.tryhackx.org
 tracker.unbxdapi.com
 tracker.uniotaku.com
 tracker.uw0.xyz
+tracker.valete.tf
 tracker.vanitycore.co
 tracker.vipmusic.org
 tracker.vrag.ru
@@ -2768,7 +2771,6 @@ tribalmixes.com
 triptorrents.com
 troypoint.com
 trun.tom.ru
-trupornolabs.org
 trurl3.pl
 tryfreegames.com
 ts.kurtubba.com
@@ -2831,7 +2833,6 @@ undeadnetwork.com
 underground-gamer.com
 undergroundclips.com
 underw.org
-uniondht.org
 uniongang.tv
 unique-tracker.com
 unlimited-tracker.net
@@ -2928,14 +2929,13 @@ wukongwendao.top
 wunza.ws
 www.2bbit.com
 www.3dtorrents.org
-www.529056.xyz
-www.529058.xyz
+www.529059.xyz
+www.529060.xyz
 www.700m.bz
-www.8800460.xyz
-www.8800473.xyz
-www.8800474.xyz
 www.8800475.xyz
-www.8800476.xyz
+www.8800477.xyz
+www.8800478.xyz
+www.8800479.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3010,7 +3010,6 @@ www.chinadocumentaries.com
 www.choicebits.info
 www.cinemanija.com
 www.classiccinemazone.com
-www.clm472.sbs
 www.comicat.org
 www.comicsearch.co.uk
 www.community-palace.co.uk
@@ -3485,7 +3484,6 @@ xtremewrestlingtorrents.net
 xtvi.com
 xwoman.ath.cx
 xwt-classics.net
-xxxadulttorrent.org
 xxxclub.cc
 xxxclub.to
 xxxtor.com
