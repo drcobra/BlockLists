@@ -551,6 +551,7 @@ civilization-site.hu
 cixxo.ch
 classic.torrentday.com
 classicdvd.mine.nu
+clearjav.com
 cliente.amigos-share.club
 clmclm.com
 clonebits.org
@@ -673,8 +674,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
-divteam.com
 divx38.boardu.org
 divxatope.com
 divxtotal.com
@@ -808,6 +807,7 @@ eztvefnet.org
 eztvx.to
 f.moya.scarywater.net
 f1carreras.xyz
+f1gp.site
 familyguytorrents.com
 familytorrent.ath.cx
 fanclubt.com
@@ -1169,7 +1169,7 @@ jshdtv.cn
 juicybitz.net
 jukebox-heaven.co.uk
 july25.com
-jun20.rudub.icu
+jun29.rudub.icu
 jungleland.dnsalias.com
 kaa.animeconnection.net
 kaffee-wellblech.no-ip.biz
@@ -1261,7 +1261,6 @@ legaltorrents.com
 legendary-torrents.net
 lemonhd.club
 leopard-raws.org
-leporno.info
 lesaloonv2-0.lol
 lesaloonv2-0.net
 lesbians4u.org
@@ -1512,6 +1511,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns-1.x-fins.com
 ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -2018,7 +2018,6 @@ spiryt.hu
 spisoft.net
 splinter.hu
 sport-scene.net
-sportscraze.xyz
 sportscult.org
 sportshare.org
 sporttorrent.com
@@ -2074,6 +2073,7 @@ syncthebits.com
 t-elite.net
 t-rb.org
 t-ru.org
+t.213891.xyz
 t.acg.rip
 t.alein.org
 t.btcland.xyz
@@ -2303,7 +2303,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg65.com
+torrentegg66.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2361,7 +2361,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq373.com
+torrentqq374.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2414,14 +2414,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome200.com
+torrentsome201.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip181.top
+torrenttip182.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2468,7 +2468,6 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
-tr.zukizuki.org
 tr3.ysagin.top
 track.sextorrent.to
 tracker-banzai.no-ip.org
@@ -2492,6 +2491,7 @@ tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.apaixtoi.info
 tracker.baltracker.net
+tracker.beeimg.com
 tracker.birkenwald.de
 tracker.bitcoinindia.space
 tracker.bitebbs.com
@@ -2528,7 +2528,6 @@ tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
 tracker.ducks.party
-tracker.dump.cl
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2558,7 +2557,6 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
-tracker.guguan.dpdns.org
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
@@ -2588,7 +2586,6 @@ tracker.lilithraws.cf
 tracker.linkomanija.org
 tracker.lintk.me
 tracker.linvk.com
-tracker.lyretain.site
 tracker.mahou.org
 tracker.majin2007.com
 tracker.manga-anime.ro
@@ -2613,7 +2610,6 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
-tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2635,7 +2631,6 @@ tracker.prq.to
 tracker.pussytorrents.org
 tracker.qu.ax
 tracker.renfei.net
-tracker.rescuecrew7.com
 tracker.rtsr.net
 tracker.ryanstevens.co.uk
 tracker.samplicio.us
@@ -2691,6 +2686,7 @@ tracker.tvunderground.org.ru
 tracker.unbxdapi.com
 tracker.uniotaku.com
 tracker.uw0.xyz
+tracker.valete.tf
 tracker.vanitycore.co
 tracker.vipmusic.org
 tracker.vrag.ru
@@ -2715,6 +2711,7 @@ tracker.zum.bi
 tracker1.520.jp
 tracker1.ctix.cn
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2755,7 +2752,6 @@ trellas.me
 tri-tavern.com
 tribalmixes.com
 triptorrents.com
-trl-zhuqiy.dgj055.icu
 troypoint.com
 trun.tom.ru
 trurl3.pl
@@ -2913,12 +2909,11 @@ wormsblast.com.pl
 wpp-fansubs.com
 wrestling-gigant.com
 ws.peer.ooo
-wukongwendao.top
 wunza.ws
 www.2bbit.com
 www.3dtorrents.org
 www.529059.xyz
-www.529060.xyz
+www.529061.xyz
 www.700m.bz
 www.8800475.xyz
 www.8800477.xyz
@@ -2932,7 +2927,6 @@ www.alfascene.ro
 www.algerian-torrents.com
 www.all4nothin.net
 www.alleenretail.org
-www.anilibria.tv
 www.anime-legion.net
 www.anime5stars.org
 www.animelayer.ru
@@ -3105,7 +3099,6 @@ www.horrorcharnel.kicks-ass.org
 www.htpt.cc
 www.hungercity.org
 www.hyperbits.org
-www.icc2022.com
 www.icetorrent.ro
 www.ilovetorrents.com
 www.imigi.ro
@@ -3145,6 +3138,7 @@ www.loadingtorrents.net
 www.lztr.us
 www.mac-torrents.com
 www.madhous3.co.uk
+www.magnetdownload.com
 www.majin2007.com
 www.majomparade.com
 www.makegreatmusic.net
