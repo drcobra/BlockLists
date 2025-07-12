@@ -259,6 +259,7 @@ bibliotik.me
 big-boss-tracker.net
 bigbabol.net
 bigbocy.com
+bigcore.eu
 bigfangroup.org
 bigfoot1942.sektori.org
 bigtorrent.eu
@@ -903,7 +904,6 @@ freshon.tv
 friends-torrent.com
 frozen-layer.com
 frozen10mbit.no-ip.com
-fsm.name
 fss.omnilounge.co.uk
 fst.omnilounge.co.uk
 fubar.com.ar
@@ -1170,7 +1170,7 @@ jpopsuki.eu
 jshdtv.cn
 juicybitz.net
 jukebox-heaven.co.uk
-jul05.rudub.shop
+jul12.rudub.shop
 july25.com
 jungleland.dnsalias.com
 kaa.animeconnection.net
@@ -1249,7 +1249,6 @@ learnbits.me
 learnbits.org
 learner.org
 learnflakes.net
-leaves.red
 leech.tenyardtorrents.com
 leech24.net
 leech2seed.info
@@ -1257,6 +1256,7 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
+leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1511,7 +1511,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-ns-1.x-fins.com
 ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1759,6 +1758,7 @@ putlocker.unblocked.ist
 putlockerseries.unblocked.llc
 pwtorrents.net
 pythons-lair.com
+qbite.top
 qbittorrent.org
 qemist.info
 qg.lorzl.gq
@@ -1862,7 +1862,6 @@ saiyanarena.com
 salad.tl
 samaritano.cc
 sans.ck.ua
-satclubbing.club
 satclubbing.info
 savaria.szerverem.hu
 savaria.tmxd.hu
@@ -1966,6 +1965,7 @@ sidewinderx.sytes.net
 sifara.com
 siluhd.com
 siscate.com.ar
+skidrowrepack.com
 sktorrent.eu
 sktorrent.org
 sky-tech.hu
@@ -2199,7 +2199,6 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
-threads.canofsocks.com
 throughput.de
 tibimate.es
 tigerblack.net
@@ -2303,7 +2302,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg67.com
+torrentegg68.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2361,7 +2360,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq375.com
+torrentqq376.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2414,14 +2413,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome202.com
+torrentsome203.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip183.top
+torrenttip184.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2459,7 +2458,9 @@ tpb.skynetcloud.site
 tpb.tracker.prq.to
 tpb.tracker.thepiratebay.org
 tpb31.ukpass.co
+tr-rh-zhuqiy.dgj055.icu
 tr.abiir.top
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2475,6 +2476,7 @@ tracker-de.ololosh.space
 tracker-global.tclclouds.com
 tracker-mk.org
 tracker-udp.gbitt.info
+tracker-zhuqiy.dgj055.icu
 tracker.0day.community
 tracker.23794.top
 tracker.36dm.com
@@ -2516,7 +2518,6 @@ tracker.cyberia.is
 tracker.czech-server.com
 tracker.cztorrent.net
 tracker.danomac.org
-tracker.darkness.services
 tracker.datorrents.com
 tracker.ddunlimited.net
 tracker.deadfrog.us
@@ -2561,12 +2562,14 @@ tracker.gmi.gd
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.hexagon.cc
+tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.highlandfox.com
 tracker.hqmusic.info
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.itscraftsoftware.my.id
@@ -2610,7 +2613,6 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
-tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2632,6 +2634,7 @@ tracker.prq.to
 tracker.pussytorrents.org
 tracker.qu.ax
 tracker.renfei.net
+tracker.rescuecrew7.com
 tracker.rtsr.net
 tracker.ryanstevens.co.uk
 tracker.samplicio.us
@@ -2753,6 +2756,7 @@ trellas.me
 tri-tavern.com
 tribalmixes.com
 triptorrents.com
+trl-zhuqiy.dgj055.icu
 troypoint.com
 trun.tom.ru
 trurl3.pl
@@ -2916,10 +2920,10 @@ www.3dtorrents.org
 www.529059.xyz
 www.529062.xyz
 www.700m.bz
-www.8800475.xyz
-www.8800477.xyz
-www.8800478.xyz
-www.8800479.xyz
+www.8800481.xyz
+www.8800483.xyz
+www.8800486.xyz
+www.8800487.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3219,6 +3223,7 @@ www.prophecywatch.com
 www.ptfiles.org
 www.pthome.net
 www.ptlover.cc
+www.ptorrents.com
 www.pttime.org
 www.punkskahxc.com
 www.punktorrents.com
@@ -3355,7 +3360,6 @@ www.torrentkitty.ink
 www.torrentkitty.io
 www.torrentkitty.lol
 www.torrentkitty.red
-www.torrentkitty.tv
 www.torrentkitty.vip
 www.torrentleech.cc
 www.torrentleech.me
@@ -3449,7 +3453,6 @@ xbtrutor.com
 xcsp.net
 xevious.homeip.net
 xhaos.no-ip.org
-xider.eu
 xider.hu
 xlist.ro
 xpresstorrent.com
