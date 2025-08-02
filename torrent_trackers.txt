@@ -170,6 +170,8 @@ arenatorrent.pl
 arrakis2.ath.cx
 artofmisdirection.com
 asiandvdclub.org
+asiatorrent.ddns.net
+asiatorrent.giize.com
 asiatorrents.com
 asnet.pw
 assasin-torrents.co.uk
@@ -1059,6 +1061,7 @@ hexagon.cc
 hgzone.ro
 hhan.club
 hhanclub.top
+hificode.in
 high-def.virtualplace.ro
 highspeedtorrents.org
 highteahop.top
@@ -1170,7 +1173,7 @@ jpopsuki.eu
 jshdtv.cn
 juicybitz.net
 jukebox-heaven.co.uk
-jul23.rudub.top
+jul29.rudub.top
 july25.com
 jungleland.dnsalias.com
 kaa.animeconnection.net
@@ -1306,6 +1309,7 @@ loushao.net
 lovethescene.net
 lsd-tracker.eu
 lst.gg
+lucke.fenesisu.moe
 lunatech.zaeleus.org
 m0m0m0m.mnmnmnmnmn.com
 m2ktalk.com
@@ -1804,7 +1808,6 @@ redskunk.org
 reelflix.xyz
 reggae-lossless.no-ip.org
 reggaetraders.net
-region.nl1.privex.cc
 releases.static-subs.com
 reload-paradise.net
 reprobate.se
@@ -1999,7 +2002,6 @@ sosulki.com
 soundplace.net
 southparkx.net
 spanishare2.com
-sparkle.ghostchu-services.top
 sparksden.org
 spatorrent.org
 special.pwtorrents.net
@@ -2076,6 +2078,7 @@ syncthebits.com
 t-elite.net
 t-rb.org
 t-ru.org
+t.213891.xyz
 t.acg.rip
 t.alein.org
 t.btcland.xyz
@@ -2364,7 +2367,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq377.com
+torrentqq378.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2481,6 +2484,7 @@ tracker-global.tclclouds.com
 tracker-mk.org
 tracker-udp.gbitt.info
 tracker.0day.community
+tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
 tracker.aburaya.live
@@ -2531,6 +2535,7 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmcomic.org
 tracker.ds.is
+tracker.ducks.party
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.eatshoe.com
@@ -2556,12 +2561,12 @@ tracker.funfile.org
 tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gcvchp.com
-tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gigatorrents.ws
 tracker.gmi.gd
 tracker.hama3.net
 tracker.hdclub.com.ua
+tracker.healthcareindia.store
 tracker.hexagon.cc
 tracker.hifimarket.in
 tracker.hifitechindia.com
@@ -2604,7 +2609,6 @@ tracker.moxing.party
 tracker.mundo-anime.org
 tracker.mywaifu.best
 tracker.nanoha.org
-tracker.netmap.top
 tracker.nighthawk.pw
 tracker.nitrix.me
 tracker.noobsubs.net
@@ -2697,6 +2701,7 @@ tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.waaa.moe
+tracker.wepzone.net
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2712,6 +2717,7 @@ tracker.zer0day.to
 tracker.zerobytes.xyz
 tracker.zhuqiy.top
 tracker.zum.bi
+tracker.zupix.online
 tracker1.520.jp
 tracker1.bt.moack.co.kr
 tracker1.ctix.cn
@@ -2916,8 +2922,8 @@ ws.peer.ooo
 wunza.ws
 www.2bbit.com
 www.3dtorrents.org
-www.529059.xyz
-www.529062.xyz
+www.529063.xyz
+www.529064.xyz
 www.700m.bz
 www.8800481.xyz
 www.8800483.xyz
@@ -3521,3 +3527,4 @@ zooqle.unblocked.llc
 zoozle.org
 ztracker.cc
 ztracker.hu
+zupix.online
