@@ -61,7 +61,6 @@ acetorrents.net
 acg.rip
 acrossthetasman.com
 adamsfile.com
-admin.52ywp.com
 adult-cinema-network.net
 adultsins.net
 af.feedroom.com
@@ -170,8 +169,6 @@ arenatorrent.pl
 arrakis2.ath.cx
 artofmisdirection.com
 asiandvdclub.org
-asiatorrent.ddns.net
-asiatorrent.giize.com
 asiatorrents.com
 asnet.pw
 assasin-torrents.co.uk
@@ -189,7 +186,7 @@ audionews.ru
 audiostuff.ro
 audiotracer.com
 audiozonetorrents.com
-aug16.rudub.club
+aug20.rudub.club
 aus.sierules.com
 aussierul.es
 aussietorrents.com
@@ -680,7 +677,6 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
-discord.heihachi.pw
 divx38.boardu.org
 divxatope.com
 divxtotal.com
@@ -1928,6 +1924,7 @@ sexybits.net
 sexybits.org
 shadow.lv
 shadowshq.yi.org
+shahidrazi.online
 share.camoe.cn
 share.dmhy.org
 share.gbvnet.ro
@@ -1961,7 +1958,7 @@ sifara.com
 siluhd.com
 siscate.com.ar
 skidrowrepack.com
-skipthecommericals.xyz
+skipthecommercials.xyz
 sktorrent.eu
 sktorrent.org
 sky-tech.hu
@@ -2262,7 +2259,6 @@ torrent.resonatingmedia.com
 torrent.rus.ec
 torrent.share.net.ua
 torrent.thegreatbeyond.net
-torrent.tracker.durukanbal.com
 torrent.ubuntu.com
 torrent.unionfansub.com
 torrent.unix-ag.uni-kl.de
@@ -2454,6 +2450,7 @@ tpirbay.site
 tpirbay.top
 tpirbay.xyz
 tr.abiir.top
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2462,13 +2459,16 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
+tr.zukizuki.org
 tr3.ysagin.top
+tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de.ololosh.space
 tracker-global.tclclouds.com
 tracker-mk.org
 tracker-udp.gbitt.info
+tracker-zhuqiy.dgj055.icu
 tracker.0day.community
 tracker.23794.top
 tracker.36dm.com
@@ -2476,6 +2476,7 @@ tracker.3arbya.com
 tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
+tracker.alaskantf.com
 tracker.aletorrenty.pl
 tracker.ali213.net
 tracker.animasub.ru
@@ -2511,7 +2512,6 @@ tracker.cyberia.is
 tracker.czech-server.com
 tracker.cztorrent.net
 tracker.danomac.org
-tracker.darkness.services
 tracker.datorrents.com
 tracker.ddunlimited.net
 tracker.deadfrog.us
@@ -2559,10 +2559,12 @@ tracker.hexagon.cc
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.highlandfox.com
+tracker.home.kmzs123.cn
 tracker.hqmusic.info
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.jae.moe
@@ -2571,6 +2573,7 @@ tracker.jiesen.life
 tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
+tracker.kmzs123.cn
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2622,7 +2625,6 @@ tracker.pow7.com
 tracker.privateseedbox.xyz
 tracker.prq.to
 tracker.pussytorrents.org
-tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
 tracker.rtsr.net
@@ -2653,6 +2655,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.therarbg.to
 tracker.tiny-vps.com
@@ -2685,8 +2688,6 @@ tracker.vipmusic.org
 tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
-tracker.waaa.moe
-tracker.wepzone.net
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
@@ -2881,7 +2882,6 @@ webtorrent.us
 webtorrents.com
 weedy.1.vg
 welcometothescene.com
-wepzone.net
 westline.it.cx
 what.cd
 white-angel.hu
@@ -3199,6 +3199,7 @@ www.pleasuredome.org.uk
 www.pmtorrents.com
 www.polskitorrent.pl
 www.pornotorrent.eu
+www.pornxlab.com
 www.potuk.com
 www.powerscene.org
 www.powerstrike.ro
@@ -3209,7 +3210,6 @@ www.prophecywatch.com
 www.ptfiles.org
 www.pthome.net
 www.ptlover.cc
-www.ptorrents.com
 www.ptskit.org
 www.pttime.org
 www.punkskahxc.com
