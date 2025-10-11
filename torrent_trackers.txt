@@ -5,7 +5,6 @@
 0d.kebhana.mx
 0day.ro
 0second.com
-1.tracker.eu.org
 10mbit.com
 123bits.org
 1337.abcvg.info
@@ -25,13 +24,11 @@
 2ddl.unblocked.llc
 3.tracker.eu.org
 3changtrai.com
-4.tracker.eu.org
 420project.org
 45rpmtorrents.com
 4thd.xyz
 52pt.site
 60-fps.org
-6ahddutb1ucc3cp.ru
 6tor.org
 7.rarbg.me
 7.rarbg.to
@@ -170,6 +167,8 @@ arenatorrent.pl
 arrakis2.ath.cx
 artofmisdirection.com
 asiandvdclub.org
+asiatorrent.ddns.net
+asiatorrent.giize.com
 asiatorrents.com
 asnet.pw
 assasin-torrents.co.uk
@@ -500,6 +499,7 @@ c1anime.net
 calibrecompanion.co
 camicaze.hu
 canadiantorrent.com
+cangbao.ge
 canthlian.no-ip.org
 capital.cyberserver.hu
 capybarabr.com
@@ -729,6 +729,7 @@ ebooks-shares.org
 ebookshare.net
 ebooksshares.org
 ebookvortex.com
+echostar.ddnsfree.com
 ed2k.vip
 eddie4.nl
 eek.edwardk.info
@@ -781,10 +782,8 @@ exodus.desync.com
 exoticaz.to
 explodie.org
 explosiv-world.biz
-ext.to
 extorrents.ru
 extracker.dahrkael.net
-extranet.torrentbay.st
 extratorrent.com
 extratorrent.ninjaproxy1.com
 extratorrent.proxyninja.net
@@ -1504,7 +1503,6 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
-ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
 ntrace.in
@@ -1520,7 +1518,7 @@ nyaa.tracker.wf
 nyaa.unblockninja.com
 nzone.com
 obala-tracker.net
-oct04.rudub.mom
+oct11.rudub.mom
 oink.me.uk
 okimoy.ath.cx
 oldgreektracker.xyz
@@ -1710,6 +1708,7 @@ psychocydd.co.uk
 psytorrents.info
 pt.0ff.cc
 pt.agsvpt.cn
+pt.aling.de
 pt.btschool.club
 pt.cdfile.org
 pt.eastgame.org
@@ -1718,6 +1717,7 @@ pt.gtkpw.xyz
 pt.hdclone.org
 pt.itzmx.com
 pt.keepfrds.com
+pt.lajidui.top
 pt.luckpt.de
 pt.m-team.cc
 pt.sjtu.edu.cn
@@ -1767,17 +1767,10 @@ randomnothings.com
 raphustle.com
 rapidmoviez.unblocked.llc
 rapidtreggy.com
-rapidzona.tv
 rarbg.com
 rarbg.me
-rarbg.ninjaproxy1.com
-rarbg.proxyninja.net
-rarbg.proxyninja.org
 rarbg.to
-rarbg.torrentbay.st
-rarbg.torrentsbay.org
 rarbg.unblocked.llc
-rarbg.unblockninja.com
 raspberryheaven.net
 rastastugan.org
 raulken.it
@@ -1838,7 +1831,6 @@ royal-orleans.com
 rstorrent.org.pl
 rt.tace.ru
 rtorrent.net
-run.publictracker.xyz
 rustorka.com
 rustorrents.net
 rutor.info
@@ -1859,6 +1851,7 @@ satclubbing.info
 savaria.szerverem.hu
 savaria.tmxd.hu
 savethecoratee.org
+sbpt.link
 sc4-torrent.pl
 scanbytes.org
 scarethe.net
@@ -1891,7 +1884,6 @@ scrapcomputers.busydizzys.com
 scrapetorrent.com
 sdbits.org
 search-torrent.com
-search.extto.com
 searlecom.homeip.net
 seatracker.ru
 secret-cinema.com
@@ -2064,10 +2056,12 @@ swetorrents.org
 swetracker.org
 swetv.org
 syncthebits.com
+t-backup.213891.xyz
 t-elite.net
 t-ru.org
 t.213891.xyz
 t.acg.rip
+t.al.uy
 t.alein.org
 t.btcland.xyz
 t.ceskeforum.com
@@ -2175,9 +2169,6 @@ thepiratedship.co.uk
 theplace.bz
 theplace.click
 thepokerbay.org
-therar.site
-therarbg.com
-therarbg.to
 thescene.ro
 thesecrethq.org
 theshow.click
@@ -2202,11 +2193,11 @@ titaniumtorrents.net
 titans-team.fr.cr
 tjupt.org
 tk.greedland.net
-tk1.trackerservers.com
 tlzdigital.com
 tmb.dj
 tmghub.org
 tmnsp.net
+tmpt.top
 tnttorrent.info
 tntvillage.org
 tocashare.biz
@@ -2271,7 +2262,6 @@ torrent.wanadoo.hu
 torrent.ws
 torrent411.com
 torrent69.net
-torrent9.to
 torrentai.info
 torrentai.net
 torrentai.org
@@ -2299,7 +2289,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg78.com
+torrentegg79.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2356,7 +2346,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq388.com
+torrentqq389.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2409,14 +2399,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome215.com
+torrentsome216.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip196.top
+torrenttip197.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2454,7 +2444,6 @@ tpirbay.site
 tpirbay.top
 tpirbay.xyz
 tr.abiir.top
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2465,7 +2454,6 @@ tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
 tr3.ysagin.top
-tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de-2.cutie.dating
@@ -2476,6 +2464,7 @@ tracker.0day.community
 tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
+tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
 tracker.alaskantf.com
@@ -2515,6 +2504,7 @@ tracker.cyberia.is
 tracker.czech-server.com
 tracker.cztorrent.net
 tracker.danomac.org
+tracker.darkness.services
 tracker.datorrents.com
 tracker.ddunlimited.net
 tracker.deadfrog.us
@@ -2554,6 +2544,7 @@ tracker.gcvchp.com
 tracker.ghostchu-services.top
 tracker.gigatorrents.ws
 tracker.gmi.gd
+tracker.guguan.us.kg
 tracker.hama3.net
 tracker.hdclub.com.ua
 tracker.healthcareindia.store
@@ -2618,7 +2609,6 @@ tracker.pbits.org
 tracker.pirateparty.gr
 tracker.playmanija.net
 tracker.plx.im
-tracker.pmman.tech
 tracker.pomf.se
 tracker.pow7.com
 tracker.prq.to
@@ -2654,6 +2644,7 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
+tracker.theoks.net
 tracker.thepiratebay.org
 tracker.therarbg.to
 tracker.tiny-vps.com
@@ -2688,12 +2679,10 @@ tracker.vipmusic.org
 tracker.vrag.ru
 tracker.vraphim.com
 tracker.vulnix.sh
-tracker.waaa.moe
 tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
 tracker.xiaoduola.xyz
-tracker.xn--djrq4gl4hvoi.top
 tracker.xplor.ro
 tracker.ydy.com
 tracker.yemekyedim.com
@@ -2703,14 +2692,12 @@ tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
 tracker.zhuqiy.com
-tracker.zhuqiy.top
 tracker.zum.bi
 tracker.zupix.online
 tracker1.520.jp
 tracker1.bt.moack.co.kr
 tracker1.ctix.cn
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -3187,7 +3174,7 @@ www.opennetwork.ro
 www.openspacetorrent.net
 www.oradeatrk.ro
 www.oshen.win
-www.oxtorrent.fyi
+www.oxtorrent10.com
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
@@ -3421,12 +3408,13 @@ www.zionteam.org
 www.zktorrent6.com
 www.zonaq.pw
 www.zone-torrent.net
-www.zone-torrent4.com
+www.zone-torrent.town
 www.zoubhd.org
 www1.cpasbien.to
 www1.oxtorrent.co
 www2.digitaldistractions.org
 www2.l33t-raws.org
+www5.torrent9.to
 x-ite.me
 x-torrent.net
 x1337x.cc
