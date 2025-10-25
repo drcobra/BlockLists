@@ -61,6 +61,7 @@ acetorrents.net
 acg.rip
 acrossthetasman.com
 adamsfile.com
+admin.52ywp.com
 adult-cinema-network.net
 adultsins.net
 af.feedroom.com
@@ -560,6 +561,7 @@ clearjav.com
 cliente.amigos-share.club
 clmclm.com
 clonebits.org
+cny.fan
 coastal-crew.bounceme.net
 cocaine.cl
 coda.fm
@@ -1057,7 +1059,6 @@ hexagon.cc
 hgzone.ro
 hhan.club
 hhanclub.top
-hificode.in
 high-def.virtualplace.ro
 highspeedtorrents.org
 home.yxgz.club
@@ -1249,7 +1250,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1522,7 +1522,7 @@ nyaa.tracker.wf
 nyaa.unblockninja.com
 nzone.com
 obala-tracker.net
-oct18.rudub.mom
+oct25.rudub.homes
 oink.me.uk
 okimoy.ath.cx
 oldgreektracker.xyz
@@ -1789,10 +1789,9 @@ rebelsarea.com
 rebeltorrent.net
 redacted.sh
 redskunk.org
-reelflix.xyz
+reelflix.cc
 reggae-lossless.no-ip.org
 reggaetraders.net
-rekcart.duckdns.org
 releases.static-subs.com
 reload-paradise.net
 reprobate.se
@@ -1919,7 +1918,6 @@ seriesqc.net
 servandroidkino.ru
 seventorrents.unblocked.llc
 sewerpt.com
-sextorrent.eu
 sextorrent.to
 sexybits.net
 sexybits.org
@@ -2298,7 +2296,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg80.com
+torrentegg81.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2355,7 +2353,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq390.com
+torrentqq391.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2408,14 +2406,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome217.com
+torrentsome218.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip198.top
+torrenttip199.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2453,7 +2451,6 @@ tpirbay.site
 tpirbay.top
 tpirbay.xyz
 tr.abiir.top
-tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2462,9 +2459,7 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
-tr.zukizuki.org
 tr3.ysagin.top
-tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de-2.cutie.dating
@@ -2472,6 +2467,7 @@ tracker-de.ololosh.space
 tracker-global.tclclouds.com
 tracker-mk.org
 tracker.0day.community
+tracker.1h.is
 tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
@@ -2566,6 +2562,7 @@ tracker.hqmusic.info
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.jae.moe
@@ -2618,10 +2615,12 @@ tracker.pbits.org
 tracker.pirateparty.gr
 tracker.playmanija.net
 tracker.plx.im
+tracker.pmman.tech
 tracker.pomf.se
 tracker.pow7.com
 tracker.prq.to
 tracker.pussytorrents.org
+tracker.qingwa.pro
 tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
@@ -2638,6 +2637,7 @@ tracker.shittyurl.org
 tracker.skillindia.site
 tracker.sktorrent.net
 tracker.skyts.cn
+tracker.skyts.net
 tracker.sladinki007.net
 tracker.sloppyta.co
 tracker.sneakyvidz.com
@@ -2647,6 +2647,7 @@ tracker.stfu.ca
 tracker.stigalaria.org
 tracker.swateam.org.uk
 tracker.synclub.org
+tracker.t-1.org
 tracker.tallpenguin.org
 tracker.tambovnet.org
 tracker.tamersunion.org
@@ -2693,6 +2694,7 @@ tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
 tracker.xiaoduola.xyz
+tracker.xn--djrq4gl4hvoi.top
 tracker.xplor.ro
 tracker.ydy.com
 tracker.yemekyedim.com
@@ -2910,10 +2912,10 @@ www.3dtorrents.org
 www.529067.xyz
 www.529069.xyz
 www.700m.bz
-www.8800507.xyz
 www.8800508.xyz
 www.8800509.xyz
 www.8800510.xyz
+www.8800511.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3173,7 +3175,7 @@ www.nhltorrents.co.uk
 www.nicept.net
 www.nietono.com
 www.nnm-club.info
-www.nortorrent.net
+www.nortorrent.town
 www.nowarez.se
 www.nyaatorrents.org
 www.okpt.net
@@ -3183,7 +3185,7 @@ www.opennetwork.ro
 www.openspacetorrent.net
 www.oradeatrk.ro
 www.oshen.win
-www.oxtorrent10.com
+www.oxtorrent.town
 www.ozone-torrents.org
 www.p2p-crew.to
 www.p2p.dm
@@ -3321,6 +3323,7 @@ www.torrent-pirat.com
 www.torrent.bg
 www.torrent.eu.org
 www.torrent411.com
+www.torrent9.zone
 www.torrentaddict.org
 www.torrentazos.com
 www.torrentbase.ro
@@ -3348,6 +3351,7 @@ www.torrentkitty.ink
 www.torrentkitty.io
 www.torrentkitty.lol
 www.torrentkitty.red
+www.torrentkitty.tv
 www.torrentkitty.vip
 www.torrentleech.cc
 www.torrentleech.me
@@ -3414,7 +3418,7 @@ www.zetorrents2.com
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
-www.zktorrent6.com
+www.zktorrent.town
 www.zonaq.pw
 www.zone-torrent.net
 www.zone-torrent.town
@@ -3423,7 +3427,6 @@ www1.cpasbien.to
 www1.oxtorrent.co
 www2.digitaldistractions.org
 www2.l33t-raws.org
-www5.torrent9.to
 x-ite.me
 x-torrent.net
 x1337x.cc
