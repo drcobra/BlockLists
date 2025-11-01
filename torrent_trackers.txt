@@ -1050,6 +1050,7 @@ heavensource.org
 heaventracker.org
 hebits.net
 hellashut.net
+hellenic-hd.cc
 hellenic-world.net
 hellenicwave.net
 helltorrents.com
@@ -1059,6 +1060,7 @@ hexagon.cc
 hgzone.ro
 hhan.club
 hhanclub.top
+hificode.in
 high-def.virtualplace.ro
 highspeedtorrents.org
 home.yxgz.club
@@ -1144,6 +1146,7 @@ iraniantorrents.com
 irishtorrents.com
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
+isk.richardsw.club
 islamictorrents.net
 isohunt.com
 isohunt.ee
@@ -1250,6 +1253,7 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
+leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1506,6 +1510,7 @@ norgesbyte.net
 norgestorrenten.org
 noviteti.com
 nowarez.se
+ns-1.x-fins.com
 ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1522,7 +1527,7 @@ nyaa.tracker.wf
 nyaa.unblockninja.com
 nzone.com
 obala-tracker.net
-oct25.rudub.homes
+oct31.rudub.homes
 oink.me.uk
 okimoy.ath.cx
 oldgreektracker.xyz
@@ -1541,7 +1546,6 @@ open.cd
 open.demonii.com
 open.demonii.si
 open.demonoid.ch
-open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
@@ -1733,7 +1737,6 @@ ptcafe.club
 ptchdbits.co
 ptchina.org
 pte.nu
-pterclub.com
 pterclub.net
 ptfans.cc
 ptfiles.net
@@ -1792,6 +1795,7 @@ redskunk.org
 reelflix.cc
 reggae-lossless.no-ip.org
 reggaetraders.net
+rekcart.duckdns.org
 releases.static-subs.com
 reload-paradise.net
 reprobate.se
@@ -1810,8 +1814,8 @@ retracker01-msk-virt.corbina.net
 retroflix.club
 reve.filserver.com
 revolution-world.com
-revolutiontt.me
 revolutiontt.net
+revott.me
 revquest-fansubs.com
 rgfootball.net
 rickw512.no-ip.com
@@ -2066,7 +2070,6 @@ t-elite.net
 t-ru.org
 t.213891.xyz
 t.acg.rip
-t.al.uy
 t.alein.org
 t.btcland.xyz
 t.ceskeforum.com
@@ -2140,6 +2143,7 @@ thedvdclub.org
 theempire.bz
 theempire.click
 thefiles.ro
+thefl.org
 thegeeks.bz
 thegeeks.click
 thegft.org
@@ -2296,7 +2300,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg81.com
+torrentegg82.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2353,7 +2357,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq391.com
+torrentqq392.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2406,14 +2410,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome218.com
+torrentsome219.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip199.top
+torrenttip200.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2471,7 +2475,6 @@ tracker.1h.is
 tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
-tracker.aburaya.live
 tracker.acgnx.se
 tracker.aladar.com
 tracker.alaskantf.com
@@ -2571,6 +2574,7 @@ tracker.jiesen.life
 tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
+tracker.kmzs123.cn
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2602,6 +2606,7 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
+tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2613,6 +2618,7 @@ tracker.parrotlinux.org
 tracker.parrotsec.org
 tracker.pbits.org
 tracker.pirateparty.gr
+tracker.playground.ru
 tracker.playmanija.net
 tracker.plx.im
 tracker.pmman.tech
@@ -2683,7 +2689,6 @@ tracker.unbxdapi.com
 tracker.uniotaku.com
 tracker.uraniumhexafluori.de
 tracker.uw0.xyz
-tracker.valete.tf
 tracker.vanitycore.co
 tracker.vipmusic.org
 tracker.vrag.ru
@@ -2694,7 +2699,6 @@ tracker.wtf-no.com
 tracker.xdvdz.com
 tracker.xfapi.top
 tracker.xiaoduola.xyz
-tracker.xn--djrq4gl4hvoi.top
 tracker.xplor.ro
 tracker.ydy.com
 tracker.yemekyedim.com
@@ -2799,6 +2803,7 @@ uberprofile.info
 ubits.club
 udp.tracker.projectk.org
 uhdbits.org
+uhdtorrent.club
 uid.hu
 uindex.org
 uknova.com
@@ -2912,10 +2917,10 @@ www.3dtorrents.org
 www.529067.xyz
 www.529069.xyz
 www.700m.bz
-www.8800508.xyz
-www.8800509.xyz
-www.8800510.xyz
-www.8800511.xyz
+www.8800517.xyz
+www.8800518.xyz
+www.8800519.xyz
+www.8800520.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3262,7 +3267,7 @@ www.shanaproject.com
 www.sharefury.org
 www.sharetorrents.net
 www.sharewood.tv
-www.shazbat.tv
+www.shazbat.tube
 www.sherwoodskogen.nu
 www.shnflac.net
 www.siambt.com
@@ -3414,7 +3419,7 @@ www.yeeshkul.com
 www.yuwabits.net
 www.zeoez.com
 www.zetatracker.org
-www.zetorrents2.com
+www.zetorrents.town
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
