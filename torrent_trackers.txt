@@ -17,7 +17,6 @@
 13mag.net
 16mag.net
 1bt.ru
-1c.premierzal.ru
 1nd.hu
 1ptba.com
 2.tracker.eu.org
@@ -31,7 +30,6 @@
 4thd.xyz
 52pt.site
 60-fps.org
-6ahddutb1ucc3cp.ru
 6tor.org
 7.rarbg.me
 7.rarbg.to
@@ -1146,7 +1144,6 @@ iraniantorrents.com
 irishtorrents.com
 irrenhaus.dyndns.dk
 iscariote.edwardk.info
-isk.richardsw.club
 islamictorrents.net
 isohunt.com
 isohunt.ee
@@ -1508,10 +1505,10 @@ nordicpeers.org
 nordicq.org
 norgesbyte.net
 norgestorrenten.org
+nov06.rudub.homes
 noviteti.com
 nowarez.se
 ns-1.x-fins.com
-ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
 ntrace.in
@@ -1527,7 +1524,6 @@ nyaa.tracker.wf
 nyaa.unblockninja.com
 nzone.com
 obala-tracker.net
-oct31.rudub.homes
 oink.me.uk
 okimoy.ath.cx
 oldgreektracker.xyz
@@ -1546,7 +1542,7 @@ open.cd
 open.demonii.com
 open.demonii.si
 open.demonoid.ch
-open.free-tracker.ga
+open.dstud.io
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -1619,6 +1615,7 @@ phantombitz.com
 pharaos-world.de
 phoenix-tracker.ath.cx
 phoenixbg.eu
+phoenixproject.app
 pianosheets.org
 pig2pig.com
 piggo.me
@@ -1922,6 +1919,7 @@ seriesqc.net
 servandroidkino.ru
 seventorrents.unblocked.llc
 sewerpt.com
+sextorrent.myds.me
 sextorrent.to
 sexybits.net
 sexybits.org
@@ -1932,7 +1930,6 @@ share.camoe.cn
 share.dmhy.org
 share.gbvnet.ro
 share.hkg-fansub.info
-share.ilolicon.com
 share.pointx.ro
 shareadictos.com
 sharefiles.lv
@@ -2286,7 +2283,6 @@ torrentbytes.net
 torrentcd.unblocked.llc
 torrentchannel.com
 torrentclub.online
-torrentcontrol.pw
 torrentcore.xyz
 torrentday.cool
 torrentday.it
@@ -2357,7 +2353,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq392.com
+torrentqq393.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2410,14 +2406,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome219.com
+torrentsome220.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip200.top
+torrenttip201.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2454,7 +2450,9 @@ tpb.tracker.thepiratebay.org
 tpirbay.site
 tpirbay.top
 tpirbay.xyz
+tr-rh-zhuqiy.dgj055.icu
 tr.abiir.top
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2464,6 +2462,7 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
 tr3.ysagin.top
+tr4ck3r.duckdns.org
 track.sextorrent.to
 tracker-banzai.no-ip.org
 tracker-de-2.cutie.dating
@@ -2574,7 +2573,6 @@ tracker.jiesen.life
 tracker.kali.org
 tracker.kamigami.org
 tracker.kicks-ass.net
-tracker.kmzs123.cn
 tracker.kuroy.me
 tracker.ledreactor.org
 tracker.leechers-paradise.org
@@ -2606,7 +2604,6 @@ tracker.novage.com.ua
 tracker.nyaa.tk
 tracker.nyaa.uk
 tracker.nyap2p.com
-tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentrackr.org
@@ -2803,7 +2800,6 @@ uberprofile.info
 ubits.club
 udp.tracker.projectk.org
 uhdbits.org
-uhdtorrent.club
 uid.hu
 uindex.org
 uknova.com
