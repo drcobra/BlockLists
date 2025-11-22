@@ -677,6 +677,7 @@ dij-entertainments.co.uk
 dimeadozen.org
 dirtytorrents.com
 discfan.net
+discord.heihachi.pw
 divx38.boardu.org
 divxatope.com
 divxtotal.com
@@ -728,7 +729,6 @@ ebooks-shares.org
 ebookshare.net
 ebooksshares.org
 ebookvortex.com
-echostar.ddnsfree.com
 ed2k.vip
 eddie4.nl
 eek.edwardk.info
@@ -1057,7 +1057,6 @@ hexagon.cc
 hgzone.ro
 hhan.club
 hhanclub.top
-hificode.in
 high-def.virtualplace.ro
 highspeedtorrents.org
 home.yxgz.club
@@ -1250,6 +1249,7 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
+leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1506,10 +1506,9 @@ nordicq.org
 norgesbyte.net
 norgestorrenten.org
 nortorrent-proxy.site
-nov13.rudub.pics
+nov19.rudub.pics
 noviteti.com
 nowarez.se
-ns-1.x-fins.com
 ns3109441.mypdns.org
 ntorrent.yoyo.pl
 ntorrents.net
@@ -1545,6 +1544,7 @@ open.demonii.com
 open.demonii.si
 open.demonoid.ch
 open.dstud.io
+open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -2188,7 +2188,6 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
-threads.canofsocks.com
 throughput.de
 tibimate.es
 tigerblack.net
@@ -2351,7 +2350,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq393.com
+torrentqq394.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2403,14 +2402,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome221.com
+torrentsome222.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip202.top
+torrenttip203.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2447,9 +2446,11 @@ tpb.tracker.thepiratebay.org
 tpirbay.site
 tpirbay.top
 tpirbay.xyz
+tr-rh-zhuqiy.dgj055.icu
 tr-zhuqiy-1.dgj055.icu
 tr-zhuqiy-2.dgj055.icu
 tr.abiir.top
+tr.abir.ga
 tr.anidub.com
 tr.bangumi.moe
 tr.cili001.com
@@ -2458,7 +2459,6 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
-tr.zukizuki.org
 tr3.ysagin.top
 tr4ck3r.duckdns.org
 track.sextorrent.to
@@ -2467,7 +2467,9 @@ tracker-de-2.cutie.dating
 tracker-de.ololosh.space
 tracker-global.tclclouds.com
 tracker-mk.org
+tracker-zhuqiy.dgj055.icu
 tracker.0day.community
+tracker.1h.is
 tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
@@ -2636,6 +2638,7 @@ tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.skillindia.site
 tracker.sktorrent.net
+tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.skyts.net
 tracker.sladinki007.net
@@ -2647,6 +2650,7 @@ tracker.stfu.ca
 tracker.stigalaria.org
 tracker.swateam.org.uk
 tracker.synclub.org
+tracker.t-1.org
 tracker.tallpenguin.org
 tracker.tambovnet.org
 tracker.tamersunion.org
@@ -2654,7 +2658,6 @@ tracker.tasvideos.org
 tracker.tbkresources.org
 tracker.tekno3d.com
 tracker.theempire.bz
-tracker.theoks.net
 tracker.thepiratebay.org
 tracker.therarbg.to
 tracker.tiny-vps.com
@@ -2701,13 +2704,13 @@ tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
 tracker.zhuqiy.com
-tracker.zhuqiy.dgj055.icu
 tracker.zum.bi
 tracker.zupix.online
 tracker1.520.jp
-tracker1.bt.moack.co.kr
 tracker1.ctix.cn
 tracker1.itzmx.com
+tracker1.myporn.club
+tracker1.t-1.org
 tracker2.anime-destiny.org
 tracker2.ctix.cn
 tracker2.dler.com
@@ -2717,6 +2720,7 @@ tracker2.itzmx.com
 tracker2.postman.i2p
 tracker3.dler.org
 tracker3.itzmx.com
+tracker3.t-1.org
 tracker4.dler.org
 tracker4.itzmx.com
 tracker7.dler.org
@@ -2910,10 +2914,10 @@ www.3dtorrents.org
 www.529067.xyz
 www.529069.xyz
 www.700m.bz
-www.8800517.xyz
-www.8800518.xyz
 www.8800519.xyz
-www.8800520.xyz
+www.8800521.xyz
+www.8800522.xyz
+www.8800523.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
