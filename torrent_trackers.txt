@@ -558,7 +558,6 @@ clearjav.com
 cliente.amigos-share.club
 clmclm.com
 clonebits.org
-cny.fan
 coastal-crew.bounceme.net
 cocaine.cl
 coda.fm
@@ -729,6 +728,7 @@ ebooks-shares.org
 ebookshare.net
 ebooksshares.org
 ebookvortex.com
+echostar.ddnsfree.com
 ed2k.vip
 eddie4.nl
 eek.edwardk.info
@@ -1057,6 +1057,7 @@ hexagon.cc
 hgzone.ro
 hhan.club
 hhanclub.top
+hificode.in
 high-def.virtualplace.ro
 highspeedtorrents.org
 home.yxgz.club
@@ -1249,7 +1250,6 @@ leechers-paradise.org
 leecherslair.com
 leechme.org
 leechturk.com
-leet-tracker.moe
 legaltorrent.net
 legaltorrents.com
 legendary-torrents.net
@@ -1505,8 +1505,7 @@ nordicpeers.org
 nordicq.org
 norgesbyte.net
 norgestorrenten.org
-nortorrent-proxy.site
-nov19.rudub.pics
+nov29.rudub.world
 noviteti.com
 nowarez.se
 ns3109441.mypdns.org
@@ -1985,7 +1984,7 @@ solidz.com
 sonchou.azuranet.com
 sonofshun.com
 sor-next.top
-sosulki.com
+sosulki.hlom.ru
 soundplace.net
 southparkx.net
 spanishare2.com
@@ -2188,6 +2187,7 @@ thevault.click
 thewtd.com
 thexchangerslounge.kicks-ass.net
 thorbits.org
+threads.canofsocks.com
 throughput.de
 tibimate.es
 tigerblack.net
@@ -2293,7 +2293,7 @@ torrentdownloads.proxyninja.org
 torrentdownloads.unblocked.llc
 torrentdownloads.unblockninja.com
 torrentech.org
-torrentegg83.com
+torrentegg84.com
 torrentek.hu
 torrentempire.net
 torrenteros.org
@@ -2350,7 +2350,7 @@ torrentproject.xyz
 torrentproject2.net
 torrentproject2.org
 torrentqc.com
-torrentqq394.com
+torrentqq396.com
 torrentradar.org
 torrentreactor.net
 torrentrush.info
@@ -2402,14 +2402,14 @@ torrentsmd.com
 torrentsmexico.com
 torrentsnatch.org
 torrentsniffer.com
-torrentsome222.com
+torrentsome223.com
 torrentspain.com
 torrentspy.com
 torrentsreloaded.5gbx.com
 torrentsrmine.org
 torrentsrus.com
 torrenttime.org
-torrenttip203.top
+torrenttip204.top
 torrenttracker.nwc.acsalaska.net
 torrenttrader.se
 torrenttunez.net
@@ -2459,6 +2459,7 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
+tr.zukizuki.org
 tr3.ysagin.top
 tr4ck3r.duckdns.org
 track.sextorrent.to
@@ -2470,7 +2471,6 @@ tracker-mk.org
 tracker-zhuqiy.dgj055.icu
 tracker.0day.community
 tracker.1h.is
-tracker.23794.top
 tracker.36dm.com
 tracker.3arbya.com
 tracker.acgnx.se
@@ -2540,6 +2540,7 @@ tracker.fdn.fr
 tracker.fenyarnyek.com
 tracker.filemail.com
 tracker.files.fm
+tracker.flatuslifir.is
 tracker.fnix.net
 tracker.foreverpirates.co
 tracker.frontalweb.com.ar
@@ -2563,6 +2564,7 @@ tracker.hqmusic.info
 tracker.iamhansen.xyz
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iochimari.moe
 tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
@@ -2638,7 +2640,6 @@ tracker.sharereactor.ro
 tracker.shittyurl.org
 tracker.skillindia.site
 tracker.sktorrent.net
-tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.skyts.net
 tracker.sladinki007.net
@@ -2704,6 +2705,7 @@ tracker.zaerc.com
 tracker.zer0day.to
 tracker.zerobytes.xyz
 tracker.zhuqiy.com
+tracker.zhuqiy.dgj055.icu
 tracker.zum.bi
 tracker.zupix.online
 tracker1.520.jp
@@ -2757,7 +2759,6 @@ ts.kurtubba.com
 tsd-trader.info
 tterm.xorg.pl
 ttfilles.com
-ttk2.nbaonlineservice.com
 ttoktv.com
 ttramp.ws
 tugaleech.net
@@ -2909,15 +2910,18 @@ wpp-fansubs.com
 wrestling-gigant.com
 ws.peer.ooo
 wunza.ws
+ww1-nortorrent.me
+ww1-zetorrents.me
+ww1-zktorrent.me
 www.2bbit.com
 www.3dtorrents.org
 www.529067.xyz
 www.529069.xyz
 www.700m.bz
-www.8800519.xyz
-www.8800521.xyz
-www.8800522.xyz
-www.8800523.xyz
+www.8800524.xyz
+www.8800525.xyz
+www.8800526.xyz
+www.8800527.xyz
 www.acid-lounge.org.uk
 www.aenianos.com.br
 www.aflam3rby.com
@@ -3176,7 +3180,6 @@ www.nhltorrents.co.uk
 www.nicept.net
 www.nietono.com
 www.nnm-club.info
-www.nortorrent.town
 www.nowarez.se
 www.nyaatorrents.org
 www.okpt.net
@@ -3414,11 +3417,9 @@ www.yeeshkul.com
 www.yuwabits.net
 www.zeoez.com
 www.zetatracker.org
-www.zetorrents.town
 www.zetracker.net
 www.zinebytes.org
 www.zionteam.org
-www.zktorrent.town
 www.zonaq.pw
 www.zone-torrent.net
 www.zoubhd.org
@@ -3500,9 +3501,7 @@ zelka.org
 zeoez.com
 zerotracker.com
 zerowing.idsoftware.com
-zetorrents-proxy.site
 zionteam.org
-zktorrent-proxy.site
 zmpt.cc
 zombtracker.the-zomb.com
 zone-torrent.net
